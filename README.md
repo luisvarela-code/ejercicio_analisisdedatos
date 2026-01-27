@@ -1,122 +1,104 @@
 # ejercicio_analisisdedatos
-### TechSupply Retail Group, un distribuidor B2B y B2C de equipos tecnológicos, ha experimentado un crecimiento del 15% en ingresos brutos durante el último año fiscal. Sin embargo, el equipo directivo ha detectado una tendencia preocupante:
-- El Costo de Adquisición de Clientes (CAC) se ha disparado.
-- La tasa de retención ha disminuido.
-### Hipótesis: Estamos atrayendo a muchos clientes de "una sola compra" y perdiendo a los clientes leales que sostienen el margen de beneficio.
+#### OmniLogistics S.A. está enfrentando una paradoja financiera: mientras nuestros ingresos brutos alcanzan máximos históricos, el margen de beneficio neto por cliente está en declive.
+#### La Problemática: La Dirección Ejecutiva sospecha que estamos incurriendo en un "Costo de Adquisición" (CAC) alto para atraer clientes que realizan una única compra y luego abandonan (Churn), o cuyo valor de vida (CLV) no justifica la inversión.
 # Objetivo
-Como Analista Senior, tu misión es construir un flujo de análisis de datos End-to-End para:
+Como líder técnico de datos, debes construir un pipeline analítico que transforme datos transaccionales crudos en inteligencia de negocio para:
 - Limpiar y estructurar los datos transaccionales brutos.
 - Segmentar la base de clientes utilizando técnicas estadísticas avanzadas (no solo reglas de negocio).
 - Entregar un Dashboard interactivo que permita al equipo de Marketing identificar a quién deben enviar campañas de fidelización.
 ## Aprovisionamiento de Datos (Fase 0)
-La empresa no cuenta con un Data Warehouse consolidado para este proyecto, por lo que se te han entregado "logs" del sistema transaccional.
-##### Instrucción: Ejecuta el siguiente script de Python una sola vez para generar los archivos planos (.csv) que actuarán como tu base de datos fuente.
+La empresa no posee un Data Lake estructurado para este ejercicio. Se te proporcionan scripts de extracción del sistema legacy.
+##### Instrucción: Ejecuta el siguiente script de Python en tu entorno local. Esto simulará la extracción de datos y generará dos archivos planos: dim_customers.csv y fact_transactions.csv.
 ```python
 import pandas as pd
 import numpy as np
 import random
 from datetime import datetime, timedelta
 
-# --- CONFIGURACIÓN DE SEMILLA PARA REPRODUCIBILIDAD ---
-np.random.seed(99)
-random.seed(99)
+# Configuración
+np.random.seed(42)
+n_customers = 1000
+n_transactions = 15000
 
-# --- PARÁMETROS ---
-n_customers = 2000
-n_transactions = 25000
+print("⚙️ Iniciando generación de datos para OmniLogistics S.A...")
 
-print("Generando datos simulados de TechSupply Retail Group...")
-
-# 1. GENERACIÓN DE DIMENSIÓN CLIENTE (dim_customers)
+# 1. Generar Clientes (Dimensión)
 customer_ids = [f'CUST_{i:04d}' for i in range(n_customers)]
-regions = ['North_America', 'EMEA', 'APAC', 'LATAM']
-channels = ['Direct Sales', 'Distributor', 'Online Web']
+regions = ['Norte', 'Sur', 'Este', 'Oeste', 'Centro']
+segments = ['Corporativo', 'Consumidor', 'Pequeña Empresa']
 
 df_customers = pd.DataFrame({
     'customer_id': customer_ids,
-    'region': np.random.choice(regions, n_customers, p=[0.4, 0.3, 0.2, 0.1]),
-    'acquisition_channel': np.random.choice(channels, n_customers),
-    'signup_date': [
-        datetime(2022, 1, 1) + timedelta(days=random.randint(0, 730))
-        for _ in range(n_customers)
-    ]
+    'region': np.random.choice(regions, n_customers),
+    'segment': np.random.choice(segments, n_customers),
+    'signup_date': [datetime(2021, 1, 1) + timedelta(days=random.randint(0, 700)) for _ in range(n_customers)]
 })
 
-# 2. GENERACIÓN DE HECHOS TRANSACCIONALES (fact_sales)
+# 2. Generar Transacciones (Hechos)
 products = {
-    'Enterprise Server': 4500,
-    'Gaming Laptop': 1500,
-    'Mechanical Keyboard': 120, 
-    'USB-C Dock': 180,
-    'Monitor 27in': 350,
-    'Ethernet Cable': 25
+    'Laptop Pro': 1200, 'Monitor 4K': 400, 'Mouse Ergo': 50, 
+    'Licencia Software': 150, 'Servidor Rack': 3000, 'Cable HDMI': 15
 }
 
 data = []
 for _ in range(n_transactions):
     cust_id = np.random.choice(customer_ids)
-    
-    # Fecha de transacción posterior al registro del cliente
-    cust_signup = df_customers.loc[
-        df_customers['customer_id'] == cust_id, 'signup_date'
-    ].values[0]
-    
+    # Lógica: Clientes antiguos tienen fechas más variadas
+    cust_signup = df_customers.loc[df_customers['customer_id'] == cust_id, 'signup_date'].values[0]
     cust_signup_ts = pd.to_datetime(str(cust_signup))
+    
     txn_date = cust_signup_ts + timedelta(days=random.randint(0, 365))
+    prod = np.random.choice(list(products.keys()))
+    qty = np.random.choice([1, 1, 1, 2, 3, 5, 10], p=[0.4, 0.2, 0.1, 0.1, 0.1, 0.05, 0.05])
     
-    # Selección de producto
-    prod_name = np.random.choice(list(products.keys()))
-    base_price = products[prod_name]
-    qty = np.random.choice(
-        [1, 2, 3, 5, 10, 20],
-        p=[0.6, 0.2, 0.1, 0.05, 0.03, 0.02]
-    )
-    
-    # Cálculo de monto
-    final_amount = base_price * qty
-    
-    # 3% de probabilidad de devolución
-    status = 'Completed'
-    if random.random() < 0.03:
-        final_amount = final_amount * -1
-        status = 'Returned'
+    # Introducir "ruido" (Devoluciones o errores)
+    amount = products[prod] * qty
+    if random.random() < 0.02: # 2% de transacciones son devoluciones
+        amount = amount * -1
         
-    data.append([
-        cust_id,
-        txn_date,
-        prod_name,
-        qty,
-        final_amount,
-        status
-    ])
+    data.append([cust_id, txn_date, prod, qty, amount])
 
-df_sales = pd.DataFrame(
-    data,
-    columns=[
-        'customer_id',
-        'transaction_date',
-        'product_name',
-        'quantity',
-        'total_amount',
-        'status'
-    ]
-)
+df_transactions = pd.DataFrame(data, columns=['customer_id', 'transaction_date', 'product', 'quantity', 'amount'])
 
-# Guardar archivos
+# Exportar a CSV simulando tablas de base de datos
 df_customers.to_csv('dim_customers.csv', index=False)
-df_sales.to_csv('fact_sales.csv', index=False)
+df_transactions.to_csv('fact_transactions.csv', index=False)
 
-print("✅ ÉXITO: Archivos 'dim_customers.csv' y 'fact_sales.csv' creados en el directorio actual.")
+print("✅ Datos generados en directorio local: 'dim_customers.csv' y 'fact_transactions.csv'")
 ```
 ## FASE I: Modelado y Limpieza (SQL)
-Se evaluará: Lógica de negocio, manejo de nulos/errores y legibilidad (CTEs).
+Objetivo: Crear una "Analytical Base Table" (ABT) limpia y lista para modelos de ML.
+Aunque puedes usar SQL estándar (DuckDB, SQLite, BigQuery), queremos evaluar tu capacidad de pensar en arquitectura modular (al estilo dbt).
 Debes crear una Tabla Analítica de Clientes (Customer ABT) que resuma el comportamiento histórico de cada usuario.
-1. Importa los CSV a tu entorno SQL preferido (SQLite, PandasSQL, BigQuery, o DuckDB).
-2.  Escribe una consulta SQL que genere una tabla única con las siguientes métricas por customer_id:
-   - Monetary: Total de ingresos generados (excluyendo devoluciones/status 'Returned'
-   - Frequency: Conteo de transacciones únicas (excluyendo devoluciones).
-   - Recency: Días transcurridos desde su última compra válida hasta la fecha máxima presente en el dataset ("Hoy").
-   - Avg Ticket: Monto promedio por compra.
-   - Tenure: Días desde que el cliente se registró (signup_date) hasta hoy.
+1. Limpieza (Staging): Escribe una consulta que limpie fact_transactions.
+- Identifica y gestiona las devoluciones (montos negativos).
+- Debes decidir: ¿Las excluyes o las sumas algebraicamente para obtener el "Net Revenue"? Justifica tu decisión.
+2. Agregación (Marts): Genera una tabla final fct_customer_rfm con una fila por cliente que contenga:
+  - monetary: Ingresos netos totales.
+  - frequency: Número de transacciones válidas.
+  - recency: Días transcurridos desde la última compra hasta la fecha máxima del dataset ("Hoy").
+  - avg_ticket: Ticket promedio.
+    
+Bonus Point: Estructura tu query usando CTEs (Common Table Expressions) nombrados como with staging as (...), with intermediate as (...), simulando capas de dbt.
 ## FASE II: Segmentación Avanzada (Python)
-
+#### Objetivo: Segmentación no supervisada.
+1. Carga la tabla fct_customer_rfm generada en el paso anterior.
+2. Pre-procesamiento:
+   - Analiza la distribución de las variables.
+   - Aplica StandardScaler (Scikit-learn) para normalizar los datos.
+3. Modelado:
+   - Utiliza el algoritmo K-Means.
+   - Determina un número óptimo de clusters (3 o 4) basado en tu criterio de negocio.
+4. Interpretación:
+   - Asigna nombres a los clusters (Ej: "VIP", "En Riesgo", "Low Value").
+   - Exporta el dataset final con la columna cluster_label.
+## Visualización de Impacto (Power BI)
+##### Objetivo: Dashboard Operativo para Gerencia de Ventas.
+Crea un reporte de una página que responda: ¿Dónde estamos perdiendo dinero?
+1. Visuales Clave:
+   - Matriz de Dispersión: Recency vs. Monetary, coloreado por Cluster.
+   - KPIs: Ventas Totales, Ticket Promedio, y una métrica calculada de "Churn Rate" (clientes con > 90 días sin compra).
+2. Filtros:
+   - Permite filtrar por Region y Segment (datos de dim_customers).
+3. Interacción:
+   - El dashboard debe permitir hacer "Drill-down" o filtrado cruzado al seleccionar un cluster.
