@@ -1,0 +1,2001 @@
+customer_id,region,acquisition_channel,signup_date
+CUST_0000,EMEA,Distributor,2023-02-18
+CUST_0001,EMEA,Online Web,2023-01-25
+CUST_0002,APAC,Distributor,2022-07-24
+CUST_0003,North_America,Distributor,2023-09-06
+CUST_0004,APAC,Distributor,2022-07-03
+CUST_0005,EMEA,Distributor,2022-08-24
+CUST_0006,North_America,Direct Sales,2022-09-12
+CUST_0007,North_America,Direct Sales,2022-05-17
+CUST_0008,LATAM,Distributor,2022-03-30
+CUST_0009,North_America,Direct Sales,2022-09-15
+CUST_0010,APAC,Distributor,2023-01-28
+CUST_0011,APAC,Distributor,2023-06-28
+CUST_0012,North_America,Distributor,2023-12-02
+CUST_0013,EMEA,Distributor,2023-12-19
+CUST_0014,LATAM,Distributor,2023-07-06
+CUST_0015,North_America,Online Web,2022-04-02
+CUST_0016,LATAM,Online Web,2023-10-01
+CUST_0017,EMEA,Online Web,2023-05-17
+CUST_0018,North_America,Distributor,2022-07-24
+CUST_0019,APAC,Distributor,2023-03-08
+CUST_0020,North_America,Distributor,2023-09-20
+CUST_0021,EMEA,Distributor,2023-08-26
+CUST_0022,North_America,Online Web,2022-08-10
+CUST_0023,APAC,Direct Sales,2023-01-18
+CUST_0024,APAC,Direct Sales,2023-02-02
+CUST_0025,North_America,Direct Sales,2023-11-30
+CUST_0026,EMEA,Distributor,2022-08-06
+CUST_0027,North_America,Direct Sales,2022-06-05
+CUST_0028,EMEA,Online Web,2023-04-18
+CUST_0029,North_America,Direct Sales,2023-11-08
+CUST_0030,North_America,Direct Sales,2022-07-03
+CUST_0031,North_America,Distributor,2023-08-04
+CUST_0032,EMEA,Distributor,2022-12-13
+CUST_0033,North_America,Direct Sales,2022-03-26
+CUST_0034,North_America,Direct Sales,2023-06-26
+CUST_0035,North_America,Direct Sales,2023-11-25
+CUST_0036,APAC,Online Web,2022-03-31
+CUST_0037,EMEA,Direct Sales,2023-04-26
+CUST_0038,North_America,Online Web,2022-11-20
+CUST_0039,LATAM,Distributor,2023-02-17
+CUST_0040,EMEA,Direct Sales,2022-02-13
+CUST_0041,North_America,Distributor,2022-10-03
+CUST_0042,EMEA,Direct Sales,2023-07-26
+CUST_0043,EMEA,Distributor,2022-01-08
+CUST_0044,APAC,Distributor,2023-03-12
+CUST_0045,APAC,Distributor,2022-07-28
+CUST_0046,North_America,Direct Sales,2023-01-07
+CUST_0047,LATAM,Direct Sales,2023-07-02
+CUST_0048,EMEA,Direct Sales,2022-03-24
+CUST_0049,North_America,Online Web,2023-04-19
+CUST_0050,EMEA,Distributor,2023-06-16
+CUST_0051,North_America,Direct Sales,2022-07-22
+CUST_0052,North_America,Direct Sales,2023-09-13
+CUST_0053,LATAM,Distributor,2023-04-19
+CUST_0054,LATAM,Distributor,2022-02-22
+CUST_0055,APAC,Distributor,2023-01-02
+CUST_0056,EMEA,Direct Sales,2022-05-13
+CUST_0057,APAC,Distributor,2022-08-10
+CUST_0058,APAC,Online Web,2022-06-14
+CUST_0059,North_America,Direct Sales,2023-03-29
+CUST_0060,EMEA,Direct Sales,2023-09-02
+CUST_0061,EMEA,Online Web,2022-07-01
+CUST_0062,LATAM,Distributor,2023-05-31
+CUST_0063,APAC,Distributor,2023-11-08
+CUST_0064,EMEA,Online Web,2022-06-30
+CUST_0065,North_America,Direct Sales,2022-02-07
+CUST_0066,North_America,Distributor,2022-04-23
+CUST_0067,North_America,Online Web,2022-01-24
+CUST_0068,North_America,Direct Sales,2022-06-25
+CUST_0069,APAC,Online Web,2023-05-01
+CUST_0070,LATAM,Direct Sales,2023-12-02
+CUST_0071,North_America,Distributor,2023-03-06
+CUST_0072,North_America,Distributor,2022-03-25
+CUST_0073,North_America,Direct Sales,2023-03-12
+CUST_0074,APAC,Direct Sales,2023-10-10
+CUST_0075,EMEA,Online Web,2022-03-30
+CUST_0076,APAC,Distributor,2022-05-27
+CUST_0077,LATAM,Distributor,2022-11-14
+CUST_0078,North_America,Distributor,2023-09-25
+CUST_0079,EMEA,Online Web,2022-01-06
+CUST_0080,EMEA,Direct Sales,2023-01-26
+CUST_0081,EMEA,Online Web,2022-12-04
+CUST_0082,APAC,Distributor,2022-05-20
+CUST_0083,APAC,Distributor,2023-06-20
+CUST_0084,North_America,Online Web,2023-02-20
+CUST_0085,North_America,Direct Sales,2022-07-25
+CUST_0086,EMEA,Direct Sales,2022-02-26
+CUST_0087,North_America,Distributor,2023-10-18
+CUST_0088,APAC,Online Web,2022-08-05
+CUST_0089,EMEA,Direct Sales,2023-03-30
+CUST_0090,EMEA,Direct Sales,2022-09-21
+CUST_0091,North_America,Online Web,2023-07-13
+CUST_0092,North_America,Online Web,2023-02-18
+CUST_0093,North_America,Online Web,2022-05-10
+CUST_0094,North_America,Online Web,2022-12-29
+CUST_0095,North_America,Online Web,2023-12-13
+CUST_0096,EMEA,Online Web,2023-05-03
+CUST_0097,North_America,Online Web,2022-02-27
+CUST_0098,APAC,Distributor,2022-05-15
+CUST_0099,EMEA,Distributor,2023-09-07
+CUST_0100,APAC,Online Web,2022-06-04
+CUST_0101,APAC,Direct Sales,2023-09-15
+CUST_0102,EMEA,Online Web,2023-02-23
+CUST_0103,North_America,Direct Sales,2022-05-08
+CUST_0104,LATAM,Online Web,2022-04-09
+CUST_0105,North_America,Direct Sales,2022-05-02
+CUST_0106,EMEA,Distributor,2022-05-28
+CUST_0107,North_America,Distributor,2022-10-31
+CUST_0108,EMEA,Online Web,2022-06-28
+CUST_0109,APAC,Online Web,2022-07-01
+CUST_0110,EMEA,Distributor,2023-02-24
+CUST_0111,EMEA,Online Web,2022-05-30
+CUST_0112,North_America,Direct Sales,2022-08-01
+CUST_0113,North_America,Direct Sales,2023-07-29
+CUST_0114,APAC,Direct Sales,2022-11-23
+CUST_0115,APAC,Distributor,2023-05-27
+CUST_0116,EMEA,Online Web,2022-08-28
+CUST_0117,LATAM,Distributor,2022-09-21
+CUST_0118,North_America,Online Web,2022-05-01
+CUST_0119,North_America,Distributor,2023-01-06
+CUST_0120,APAC,Distributor,2022-07-10
+CUST_0121,EMEA,Direct Sales,2023-11-26
+CUST_0122,EMEA,Distributor,2022-03-16
+CUST_0123,APAC,Distributor,2023-05-29
+CUST_0124,APAC,Online Web,2022-10-22
+CUST_0125,EMEA,Online Web,2022-01-12
+CUST_0126,EMEA,Online Web,2023-08-23
+CUST_0127,North_America,Direct Sales,2022-02-18
+CUST_0128,APAC,Distributor,2022-12-12
+CUST_0129,North_America,Online Web,2022-08-10
+CUST_0130,EMEA,Direct Sales,2023-01-22
+CUST_0131,EMEA,Online Web,2023-02-13
+CUST_0132,EMEA,Direct Sales,2022-12-11
+CUST_0133,APAC,Distributor,2023-02-13
+CUST_0134,North_America,Distributor,2023-01-31
+CUST_0135,North_America,Online Web,2023-03-01
+CUST_0136,North_America,Distributor,2023-01-15
+CUST_0137,LATAM,Direct Sales,2023-07-02
+CUST_0138,EMEA,Online Web,2022-04-05
+CUST_0139,North_America,Distributor,2022-07-05
+CUST_0140,EMEA,Direct Sales,2022-02-08
+CUST_0141,APAC,Distributor,2023-01-17
+CUST_0142,LATAM,Direct Sales,2023-02-13
+CUST_0143,North_America,Distributor,2023-03-31
+CUST_0144,LATAM,Distributor,2022-08-24
+CUST_0145,North_America,Direct Sales,2022-11-15
+CUST_0146,North_America,Direct Sales,2023-11-02
+CUST_0147,EMEA,Online Web,2022-08-20
+CUST_0148,North_America,Online Web,2023-11-01
+CUST_0149,APAC,Direct Sales,2022-11-15
+CUST_0150,North_America,Distributor,2022-04-19
+CUST_0151,North_America,Direct Sales,2023-12-06
+CUST_0152,APAC,Direct Sales,2022-11-18
+CUST_0153,LATAM,Distributor,2022-08-12
+CUST_0154,APAC,Direct Sales,2023-12-30
+CUST_0155,APAC,Online Web,2023-11-22
+CUST_0156,LATAM,Distributor,2023-12-30
+CUST_0157,EMEA,Direct Sales,2022-09-13
+CUST_0158,North_America,Distributor,2023-01-28
+CUST_0159,APAC,Online Web,2022-10-31
+CUST_0160,EMEA,Online Web,2023-03-25
+CUST_0161,EMEA,Online Web,2022-03-24
+CUST_0162,APAC,Distributor,2023-03-25
+CUST_0163,APAC,Online Web,2023-03-08
+CUST_0164,North_America,Direct Sales,2022-09-20
+CUST_0165,North_America,Distributor,2022-03-13
+CUST_0166,EMEA,Distributor,2023-05-31
+CUST_0167,LATAM,Distributor,2022-10-28
+CUST_0168,APAC,Online Web,2023-12-03
+CUST_0169,North_America,Direct Sales,2022-11-25
+CUST_0170,North_America,Online Web,2023-05-04
+CUST_0171,EMEA,Online Web,2023-07-01
+CUST_0172,EMEA,Online Web,2022-05-11
+CUST_0173,EMEA,Direct Sales,2022-09-20
+CUST_0174,North_America,Direct Sales,2023-03-18
+CUST_0175,EMEA,Distributor,2022-10-25
+CUST_0176,EMEA,Online Web,2023-02-24
+CUST_0177,North_America,Direct Sales,2023-11-06
+CUST_0178,North_America,Distributor,2023-09-18
+CUST_0179,EMEA,Distributor,2022-06-13
+CUST_0180,North_America,Distributor,2022-10-17
+CUST_0181,LATAM,Distributor,2023-01-24
+CUST_0182,North_America,Distributor,2023-11-26
+CUST_0183,North_America,Distributor,2023-11-26
+CUST_0184,APAC,Direct Sales,2023-09-11
+CUST_0185,North_America,Distributor,2023-09-26
+CUST_0186,EMEA,Distributor,2023-11-14
+CUST_0187,North_America,Distributor,2023-03-27
+CUST_0188,LATAM,Distributor,2022-07-19
+CUST_0189,North_America,Distributor,2023-01-24
+CUST_0190,North_America,Direct Sales,2022-12-11
+CUST_0191,EMEA,Direct Sales,2022-07-22
+CUST_0192,APAC,Direct Sales,2022-12-20
+CUST_0193,EMEA,Distributor,2022-01-05
+CUST_0194,EMEA,Direct Sales,2023-11-15
+CUST_0195,APAC,Online Web,2022-12-30
+CUST_0196,EMEA,Direct Sales,2023-12-13
+CUST_0197,EMEA,Distributor,2022-10-30
+CUST_0198,North_America,Online Web,2022-07-17
+CUST_0199,North_America,Online Web,2023-11-12
+CUST_0200,North_America,Direct Sales,2023-11-15
+CUST_0201,EMEA,Distributor,2022-06-25
+CUST_0202,APAC,Online Web,2023-10-18
+CUST_0203,APAC,Distributor,2022-09-25
+CUST_0204,EMEA,Online Web,2023-11-04
+CUST_0205,LATAM,Distributor,2023-03-03
+CUST_0206,APAC,Direct Sales,2023-12-25
+CUST_0207,LATAM,Online Web,2022-08-25
+CUST_0208,North_America,Online Web,2023-02-23
+CUST_0209,North_America,Distributor,2022-12-20
+CUST_0210,EMEA,Distributor,2023-11-04
+CUST_0211,EMEA,Direct Sales,2023-02-14
+CUST_0212,EMEA,Distributor,2022-01-04
+CUST_0213,LATAM,Online Web,2022-04-26
+CUST_0214,North_America,Online Web,2023-05-29
+CUST_0215,North_America,Online Web,2023-06-29
+CUST_0216,LATAM,Direct Sales,2022-07-27
+CUST_0217,EMEA,Online Web,2022-01-02
+CUST_0218,EMEA,Direct Sales,2023-06-19
+CUST_0219,APAC,Online Web,2022-11-14
+CUST_0220,North_America,Distributor,2023-11-20
+CUST_0221,North_America,Distributor,2022-06-21
+CUST_0222,North_America,Distributor,2023-06-08
+CUST_0223,LATAM,Online Web,2023-03-31
+CUST_0224,North_America,Distributor,2022-07-30
+CUST_0225,EMEA,Direct Sales,2022-09-28
+CUST_0226,APAC,Direct Sales,2023-03-03
+CUST_0227,North_America,Direct Sales,2023-04-25
+CUST_0228,North_America,Direct Sales,2023-07-28
+CUST_0229,EMEA,Direct Sales,2023-06-28
+CUST_0230,North_America,Online Web,2023-10-04
+CUST_0231,EMEA,Online Web,2023-09-27
+CUST_0232,EMEA,Direct Sales,2023-10-09
+CUST_0233,North_America,Online Web,2023-09-13
+CUST_0234,APAC,Distributor,2022-10-22
+CUST_0235,LATAM,Online Web,2022-07-25
+CUST_0236,EMEA,Direct Sales,2022-01-22
+CUST_0237,EMEA,Direct Sales,2022-04-18
+CUST_0238,LATAM,Distributor,2022-11-11
+CUST_0239,APAC,Online Web,2022-03-19
+CUST_0240,APAC,Online Web,2023-08-18
+CUST_0241,EMEA,Distributor,2022-02-02
+CUST_0242,EMEA,Direct Sales,2022-03-01
+CUST_0243,LATAM,Distributor,2023-03-03
+CUST_0244,North_America,Direct Sales,2022-11-03
+CUST_0245,North_America,Online Web,2023-01-14
+CUST_0246,North_America,Direct Sales,2023-07-25
+CUST_0247,EMEA,Direct Sales,2023-10-04
+CUST_0248,EMEA,Direct Sales,2023-12-29
+CUST_0249,North_America,Online Web,2023-08-26
+CUST_0250,North_America,Direct Sales,2023-08-12
+CUST_0251,EMEA,Direct Sales,2022-10-30
+CUST_0252,LATAM,Distributor,2022-07-18
+CUST_0253,LATAM,Direct Sales,2022-04-13
+CUST_0254,North_America,Direct Sales,2023-02-09
+CUST_0255,EMEA,Online Web,2023-02-13
+CUST_0256,APAC,Online Web,2022-06-26
+CUST_0257,EMEA,Direct Sales,2022-09-29
+CUST_0258,APAC,Distributor,2023-04-17
+CUST_0259,APAC,Direct Sales,2022-12-03
+CUST_0260,North_America,Direct Sales,2022-05-12
+CUST_0261,APAC,Direct Sales,2022-05-14
+CUST_0262,EMEA,Distributor,2023-04-03
+CUST_0263,North_America,Distributor,2023-12-13
+CUST_0264,EMEA,Online Web,2023-12-20
+CUST_0265,North_America,Online Web,2023-02-03
+CUST_0266,North_America,Direct Sales,2023-03-05
+CUST_0267,North_America,Direct Sales,2023-07-30
+CUST_0268,North_America,Direct Sales,2022-07-03
+CUST_0269,LATAM,Online Web,2023-01-04
+CUST_0270,APAC,Direct Sales,2022-09-14
+CUST_0271,North_America,Online Web,2022-08-01
+CUST_0272,LATAM,Online Web,2022-10-08
+CUST_0273,North_America,Direct Sales,2023-04-20
+CUST_0274,North_America,Online Web,2023-08-10
+CUST_0275,EMEA,Direct Sales,2023-12-18
+CUST_0276,North_America,Direct Sales,2023-01-27
+CUST_0277,EMEA,Direct Sales,2022-07-08
+CUST_0278,EMEA,Direct Sales,2023-05-06
+CUST_0279,APAC,Online Web,2023-08-10
+CUST_0280,APAC,Direct Sales,2023-10-03
+CUST_0281,LATAM,Direct Sales,2023-05-03
+CUST_0282,EMEA,Online Web,2023-11-12
+CUST_0283,APAC,Distributor,2022-06-23
+CUST_0284,APAC,Distributor,2022-03-18
+CUST_0285,APAC,Direct Sales,2023-06-29
+CUST_0286,North_America,Distributor,2022-09-03
+CUST_0287,EMEA,Direct Sales,2023-04-16
+CUST_0288,APAC,Direct Sales,2023-06-20
+CUST_0289,EMEA,Direct Sales,2022-01-16
+CUST_0290,APAC,Distributor,2022-04-28
+CUST_0291,EMEA,Direct Sales,2022-12-04
+CUST_0292,North_America,Distributor,2023-05-21
+CUST_0293,North_America,Online Web,2022-03-15
+CUST_0294,North_America,Online Web,2022-12-10
+CUST_0295,EMEA,Direct Sales,2023-11-02
+CUST_0296,EMEA,Direct Sales,2022-01-05
+CUST_0297,APAC,Direct Sales,2023-08-07
+CUST_0298,North_America,Distributor,2023-11-28
+CUST_0299,APAC,Distributor,2023-06-30
+CUST_0300,North_America,Direct Sales,2022-10-09
+CUST_0301,LATAM,Online Web,2023-10-11
+CUST_0302,North_America,Direct Sales,2022-01-13
+CUST_0303,APAC,Distributor,2023-08-20
+CUST_0304,EMEA,Online Web,2022-11-23
+CUST_0305,North_America,Online Web,2023-02-28
+CUST_0306,LATAM,Online Web,2022-09-25
+CUST_0307,North_America,Direct Sales,2022-06-19
+CUST_0308,APAC,Online Web,2022-05-20
+CUST_0309,North_America,Online Web,2023-08-26
+CUST_0310,LATAM,Online Web,2022-02-18
+CUST_0311,North_America,Online Web,2023-02-11
+CUST_0312,APAC,Online Web,2022-02-07
+CUST_0313,North_America,Online Web,2022-02-18
+CUST_0314,North_America,Online Web,2022-12-17
+CUST_0315,EMEA,Distributor,2023-06-08
+CUST_0316,APAC,Distributor,2022-08-24
+CUST_0317,EMEA,Distributor,2023-07-23
+CUST_0318,North_America,Distributor,2022-10-27
+CUST_0319,North_America,Direct Sales,2022-06-12
+CUST_0320,North_America,Direct Sales,2023-03-26
+CUST_0321,North_America,Direct Sales,2022-02-28
+CUST_0322,APAC,Distributor,2023-12-14
+CUST_0323,North_America,Direct Sales,2023-03-04
+CUST_0324,APAC,Direct Sales,2022-08-24
+CUST_0325,North_America,Online Web,2022-07-13
+CUST_0326,North_America,Direct Sales,2022-04-30
+CUST_0327,EMEA,Distributor,2023-05-12
+CUST_0328,APAC,Direct Sales,2022-06-25
+CUST_0329,APAC,Distributor,2022-10-07
+CUST_0330,EMEA,Direct Sales,2022-10-10
+CUST_0331,North_America,Online Web,2023-11-04
+CUST_0332,EMEA,Online Web,2023-01-09
+CUST_0333,LATAM,Direct Sales,2022-03-14
+CUST_0334,APAC,Online Web,2023-07-28
+CUST_0335,North_America,Distributor,2022-07-22
+CUST_0336,EMEA,Online Web,2023-07-27
+CUST_0337,EMEA,Online Web,2022-06-27
+CUST_0338,APAC,Distributor,2023-12-20
+CUST_0339,North_America,Direct Sales,2022-12-29
+CUST_0340,EMEA,Direct Sales,2023-10-31
+CUST_0341,EMEA,Direct Sales,2023-07-02
+CUST_0342,North_America,Direct Sales,2022-03-25
+CUST_0343,APAC,Distributor,2023-11-26
+CUST_0344,EMEA,Online Web,2022-04-27
+CUST_0345,LATAM,Distributor,2022-05-09
+CUST_0346,APAC,Distributor,2022-05-21
+CUST_0347,EMEA,Online Web,2022-06-03
+CUST_0348,EMEA,Distributor,2023-07-13
+CUST_0349,EMEA,Distributor,2022-03-30
+CUST_0350,LATAM,Online Web,2022-02-03
+CUST_0351,North_America,Online Web,2023-06-10
+CUST_0352,APAC,Distributor,2023-10-25
+CUST_0353,North_America,Distributor,2023-01-24
+CUST_0354,North_America,Distributor,2022-06-20
+CUST_0355,North_America,Online Web,2022-12-29
+CUST_0356,EMEA,Direct Sales,2022-08-26
+CUST_0357,EMEA,Online Web,2023-09-22
+CUST_0358,EMEA,Online Web,2023-09-15
+CUST_0359,EMEA,Distributor,2023-09-18
+CUST_0360,North_America,Online Web,2022-06-14
+CUST_0361,LATAM,Distributor,2022-12-15
+CUST_0362,EMEA,Online Web,2022-02-24
+CUST_0363,North_America,Online Web,2022-12-17
+CUST_0364,North_America,Distributor,2023-10-03
+CUST_0365,APAC,Distributor,2023-03-23
+CUST_0366,North_America,Online Web,2022-07-12
+CUST_0367,EMEA,Online Web,2022-11-11
+CUST_0368,LATAM,Online Web,2022-07-03
+CUST_0369,EMEA,Distributor,2022-04-24
+CUST_0370,EMEA,Direct Sales,2022-05-31
+CUST_0371,North_America,Online Web,2023-05-24
+CUST_0372,APAC,Direct Sales,2023-10-21
+CUST_0373,APAC,Online Web,2023-06-18
+CUST_0374,North_America,Direct Sales,2022-01-13
+CUST_0375,North_America,Direct Sales,2022-08-25
+CUST_0376,EMEA,Distributor,2023-01-21
+CUST_0377,EMEA,Direct Sales,2023-11-30
+CUST_0378,APAC,Distributor,2022-04-10
+CUST_0379,LATAM,Direct Sales,2022-08-30
+CUST_0380,North_America,Direct Sales,2023-08-04
+CUST_0381,North_America,Online Web,2023-03-31
+CUST_0382,North_America,Direct Sales,2023-09-09
+CUST_0383,EMEA,Direct Sales,2022-03-24
+CUST_0384,North_America,Online Web,2022-06-15
+CUST_0385,EMEA,Online Web,2022-06-20
+CUST_0386,EMEA,Online Web,2023-03-31
+CUST_0387,North_America,Distributor,2023-01-18
+CUST_0388,APAC,Online Web,2022-09-17
+CUST_0389,APAC,Online Web,2022-11-17
+CUST_0390,North_America,Direct Sales,2023-08-27
+CUST_0391,EMEA,Online Web,2022-02-16
+CUST_0392,EMEA,Distributor,2023-08-22
+CUST_0393,North_America,Direct Sales,2023-02-11
+CUST_0394,North_America,Online Web,2022-01-21
+CUST_0395,APAC,Distributor,2022-11-04
+CUST_0396,North_America,Direct Sales,2022-06-12
+CUST_0397,North_America,Distributor,2022-05-16
+CUST_0398,North_America,Direct Sales,2022-01-12
+CUST_0399,EMEA,Online Web,2022-10-20
+CUST_0400,LATAM,Online Web,2023-07-24
+CUST_0401,EMEA,Direct Sales,2022-10-30
+CUST_0402,APAC,Direct Sales,2022-10-25
+CUST_0403,APAC,Online Web,2022-05-07
+CUST_0404,EMEA,Online Web,2023-05-20
+CUST_0405,North_America,Distributor,2023-03-14
+CUST_0406,North_America,Online Web,2022-03-16
+CUST_0407,APAC,Online Web,2022-02-11
+CUST_0408,APAC,Distributor,2022-12-29
+CUST_0409,EMEA,Distributor,2022-06-17
+CUST_0410,EMEA,Online Web,2023-09-14
+CUST_0411,EMEA,Online Web,2023-12-01
+CUST_0412,EMEA,Online Web,2022-11-21
+CUST_0413,APAC,Online Web,2022-12-09
+CUST_0414,North_America,Direct Sales,2023-11-11
+CUST_0415,EMEA,Direct Sales,2022-12-01
+CUST_0416,North_America,Online Web,2022-02-05
+CUST_0417,North_America,Distributor,2023-01-21
+CUST_0418,North_America,Online Web,2022-10-05
+CUST_0419,EMEA,Distributor,2023-09-17
+CUST_0420,EMEA,Distributor,2022-08-21
+CUST_0421,APAC,Online Web,2023-07-16
+CUST_0422,North_America,Direct Sales,2022-06-04
+CUST_0423,LATAM,Online Web,2023-12-12
+CUST_0424,EMEA,Online Web,2023-11-22
+CUST_0425,APAC,Direct Sales,2022-01-19
+CUST_0426,North_America,Distributor,2022-10-23
+CUST_0427,North_America,Online Web,2023-02-14
+CUST_0428,EMEA,Online Web,2023-03-06
+CUST_0429,EMEA,Online Web,2023-06-09
+CUST_0430,EMEA,Distributor,2022-08-22
+CUST_0431,North_America,Direct Sales,2022-06-28
+CUST_0432,APAC,Direct Sales,2023-06-21
+CUST_0433,APAC,Distributor,2023-02-21
+CUST_0434,LATAM,Distributor,2022-02-25
+CUST_0435,North_America,Direct Sales,2022-08-06
+CUST_0436,EMEA,Online Web,2022-09-05
+CUST_0437,EMEA,Distributor,2023-10-26
+CUST_0438,EMEA,Direct Sales,2022-09-24
+CUST_0439,North_America,Direct Sales,2022-06-17
+CUST_0440,North_America,Online Web,2023-08-04
+CUST_0441,LATAM,Online Web,2022-04-07
+CUST_0442,LATAM,Distributor,2023-03-22
+CUST_0443,APAC,Direct Sales,2022-01-05
+CUST_0444,EMEA,Distributor,2023-08-03
+CUST_0445,APAC,Direct Sales,2022-01-30
+CUST_0446,North_America,Direct Sales,2022-07-26
+CUST_0447,North_America,Online Web,2022-05-15
+CUST_0448,North_America,Online Web,2022-07-04
+CUST_0449,EMEA,Distributor,2023-10-07
+CUST_0450,LATAM,Direct Sales,2022-11-04
+CUST_0451,EMEA,Direct Sales,2022-03-04
+CUST_0452,APAC,Online Web,2022-09-18
+CUST_0453,APAC,Distributor,2022-07-07
+CUST_0454,North_America,Distributor,2023-08-17
+CUST_0455,North_America,Direct Sales,2023-03-17
+CUST_0456,North_America,Online Web,2022-06-02
+CUST_0457,EMEA,Direct Sales,2022-01-04
+CUST_0458,LATAM,Online Web,2023-10-22
+CUST_0459,North_America,Direct Sales,2022-02-06
+CUST_0460,APAC,Online Web,2023-05-31
+CUST_0461,EMEA,Online Web,2023-02-10
+CUST_0462,North_America,Direct Sales,2023-04-02
+CUST_0463,APAC,Distributor,2022-03-17
+CUST_0464,North_America,Distributor,2022-06-19
+CUST_0465,North_America,Online Web,2023-08-26
+CUST_0466,EMEA,Distributor,2022-08-27
+CUST_0467,EMEA,Online Web,2022-12-16
+CUST_0468,APAC,Direct Sales,2023-03-22
+CUST_0469,EMEA,Direct Sales,2022-05-16
+CUST_0470,EMEA,Online Web,2023-05-05
+CUST_0471,North_America,Distributor,2023-09-19
+CUST_0472,LATAM,Distributor,2022-04-04
+CUST_0473,North_America,Direct Sales,2023-01-14
+CUST_0474,EMEA,Distributor,2023-05-30
+CUST_0475,APAC,Online Web,2022-06-13
+CUST_0476,North_America,Online Web,2022-08-27
+CUST_0477,North_America,Distributor,2023-08-10
+CUST_0478,EMEA,Online Web,2023-05-12
+CUST_0479,EMEA,Online Web,2022-08-02
+CUST_0480,North_America,Online Web,2022-04-13
+CUST_0481,APAC,Distributor,2023-03-23
+CUST_0482,North_America,Distributor,2023-09-19
+CUST_0483,LATAM,Distributor,2022-07-26
+CUST_0484,LATAM,Distributor,2022-06-27
+CUST_0485,LATAM,Distributor,2022-05-18
+CUST_0486,APAC,Direct Sales,2023-05-02
+CUST_0487,APAC,Direct Sales,2022-09-12
+CUST_0488,APAC,Distributor,2022-06-26
+CUST_0489,North_America,Direct Sales,2023-12-04
+CUST_0490,North_America,Distributor,2022-09-20
+CUST_0491,North_America,Distributor,2022-06-21
+CUST_0492,North_America,Online Web,2023-10-30
+CUST_0493,APAC,Online Web,2023-06-13
+CUST_0494,North_America,Distributor,2023-11-20
+CUST_0495,LATAM,Distributor,2023-06-01
+CUST_0496,EMEA,Online Web,2023-07-11
+CUST_0497,LATAM,Online Web,2022-03-21
+CUST_0498,EMEA,Online Web,2022-08-29
+CUST_0499,LATAM,Distributor,2022-09-04
+CUST_0500,EMEA,Distributor,2023-06-22
+CUST_0501,EMEA,Online Web,2022-08-21
+CUST_0502,APAC,Direct Sales,2023-12-05
+CUST_0503,North_America,Direct Sales,2023-12-23
+CUST_0504,North_America,Direct Sales,2023-03-08
+CUST_0505,LATAM,Direct Sales,2023-02-09
+CUST_0506,EMEA,Online Web,2023-06-21
+CUST_0507,North_America,Direct Sales,2023-07-29
+CUST_0508,North_America,Distributor,2022-03-16
+CUST_0509,North_America,Direct Sales,2022-09-05
+CUST_0510,North_America,Direct Sales,2022-09-14
+CUST_0511,LATAM,Online Web,2022-11-28
+CUST_0512,North_America,Online Web,2023-08-02
+CUST_0513,EMEA,Online Web,2022-12-09
+CUST_0514,North_America,Distributor,2023-05-23
+CUST_0515,EMEA,Online Web,2022-07-13
+CUST_0516,LATAM,Online Web,2022-04-10
+CUST_0517,EMEA,Online Web,2023-10-05
+CUST_0518,EMEA,Direct Sales,2022-01-31
+CUST_0519,APAC,Online Web,2022-02-09
+CUST_0520,APAC,Distributor,2023-03-24
+CUST_0521,North_America,Direct Sales,2022-03-05
+CUST_0522,North_America,Online Web,2022-11-19
+CUST_0523,LATAM,Direct Sales,2022-07-14
+CUST_0524,EMEA,Online Web,2022-02-21
+CUST_0525,APAC,Direct Sales,2023-11-10
+CUST_0526,EMEA,Distributor,2022-10-27
+CUST_0527,North_America,Online Web,2022-07-09
+CUST_0528,North_America,Online Web,2022-10-02
+CUST_0529,APAC,Distributor,2023-11-19
+CUST_0530,APAC,Distributor,2022-09-19
+CUST_0531,North_America,Direct Sales,2022-01-11
+CUST_0532,EMEA,Direct Sales,2023-08-15
+CUST_0533,EMEA,Direct Sales,2023-06-28
+CUST_0534,LATAM,Distributor,2022-10-30
+CUST_0535,North_America,Direct Sales,2022-07-20
+CUST_0536,EMEA,Distributor,2023-01-09
+CUST_0537,EMEA,Direct Sales,2022-04-27
+CUST_0538,North_America,Distributor,2022-06-13
+CUST_0539,EMEA,Distributor,2022-12-19
+CUST_0540,North_America,Distributor,2023-02-03
+CUST_0541,APAC,Distributor,2022-05-26
+CUST_0542,APAC,Direct Sales,2023-12-15
+CUST_0543,North_America,Distributor,2022-11-09
+CUST_0544,EMEA,Distributor,2023-06-28
+CUST_0545,EMEA,Direct Sales,2022-09-24
+CUST_0546,APAC,Online Web,2022-07-22
+CUST_0547,LATAM,Distributor,2023-04-09
+CUST_0548,North_America,Direct Sales,2022-02-27
+CUST_0549,APAC,Online Web,2022-01-28
+CUST_0550,North_America,Direct Sales,2022-12-30
+CUST_0551,APAC,Direct Sales,2022-08-26
+CUST_0552,North_America,Direct Sales,2022-05-25
+CUST_0553,EMEA,Online Web,2023-09-15
+CUST_0554,APAC,Online Web,2022-03-22
+CUST_0555,APAC,Direct Sales,2023-01-24
+CUST_0556,EMEA,Online Web,2022-01-19
+CUST_0557,LATAM,Distributor,2023-01-03
+CUST_0558,EMEA,Online Web,2022-11-22
+CUST_0559,APAC,Direct Sales,2023-01-20
+CUST_0560,North_America,Distributor,2022-09-08
+CUST_0561,North_America,Online Web,2023-07-06
+CUST_0562,EMEA,Online Web,2022-06-07
+CUST_0563,EMEA,Distributor,2022-03-17
+CUST_0564,North_America,Distributor,2022-01-23
+CUST_0565,North_America,Distributor,2022-01-30
+CUST_0566,LATAM,Online Web,2022-06-30
+CUST_0567,North_America,Direct Sales,2022-08-05
+CUST_0568,North_America,Online Web,2022-08-16
+CUST_0569,North_America,Direct Sales,2022-12-18
+CUST_0570,North_America,Direct Sales,2023-09-28
+CUST_0571,APAC,Online Web,2022-09-20
+CUST_0572,North_America,Direct Sales,2022-03-14
+CUST_0573,North_America,Distributor,2023-10-23
+CUST_0574,North_America,Distributor,2022-01-01
+CUST_0575,APAC,Distributor,2023-03-21
+CUST_0576,North_America,Direct Sales,2022-04-27
+CUST_0577,EMEA,Distributor,2023-11-05
+CUST_0578,North_America,Online Web,2023-03-23
+CUST_0579,EMEA,Direct Sales,2022-03-24
+CUST_0580,North_America,Direct Sales,2023-12-10
+CUST_0581,North_America,Direct Sales,2023-01-14
+CUST_0582,North_America,Online Web,2023-05-25
+CUST_0583,LATAM,Direct Sales,2023-03-10
+CUST_0584,North_America,Online Web,2023-07-26
+CUST_0585,EMEA,Online Web,2023-01-20
+CUST_0586,North_America,Online Web,2023-07-27
+CUST_0587,North_America,Direct Sales,2023-10-23
+CUST_0588,APAC,Distributor,2022-09-27
+CUST_0589,North_America,Distributor,2022-12-01
+CUST_0590,APAC,Direct Sales,2023-12-31
+CUST_0591,EMEA,Online Web,2022-12-20
+CUST_0592,North_America,Online Web,2022-04-30
+CUST_0593,North_America,Direct Sales,2022-10-07
+CUST_0594,EMEA,Direct Sales,2023-06-28
+CUST_0595,APAC,Direct Sales,2022-09-07
+CUST_0596,North_America,Distributor,2022-03-07
+CUST_0597,North_America,Direct Sales,2022-02-04
+CUST_0598,EMEA,Distributor,2022-08-13
+CUST_0599,APAC,Online Web,2022-10-01
+CUST_0600,APAC,Direct Sales,2022-11-30
+CUST_0601,EMEA,Direct Sales,2023-09-28
+CUST_0602,North_America,Online Web,2022-04-15
+CUST_0603,EMEA,Direct Sales,2022-10-05
+CUST_0604,APAC,Distributor,2022-11-11
+CUST_0605,EMEA,Direct Sales,2023-09-29
+CUST_0606,EMEA,Direct Sales,2023-10-02
+CUST_0607,APAC,Online Web,2022-09-06
+CUST_0608,North_America,Online Web,2022-08-06
+CUST_0609,North_America,Distributor,2023-03-29
+CUST_0610,APAC,Direct Sales,2023-11-13
+CUST_0611,North_America,Online Web,2023-04-01
+CUST_0612,EMEA,Online Web,2023-06-19
+CUST_0613,North_America,Direct Sales,2022-01-18
+CUST_0614,North_America,Distributor,2023-09-09
+CUST_0615,APAC,Direct Sales,2022-09-26
+CUST_0616,North_America,Online Web,2022-03-21
+CUST_0617,EMEA,Distributor,2023-01-28
+CUST_0618,APAC,Direct Sales,2022-05-05
+CUST_0619,LATAM,Direct Sales,2022-01-19
+CUST_0620,North_America,Direct Sales,2022-10-17
+CUST_0621,EMEA,Distributor,2023-05-22
+CUST_0622,EMEA,Distributor,2023-12-22
+CUST_0623,North_America,Online Web,2023-03-29
+CUST_0624,EMEA,Online Web,2023-03-13
+CUST_0625,EMEA,Direct Sales,2022-11-25
+CUST_0626,APAC,Online Web,2023-06-06
+CUST_0627,APAC,Distributor,2022-08-29
+CUST_0628,APAC,Online Web,2023-09-12
+CUST_0629,EMEA,Distributor,2023-12-12
+CUST_0630,EMEA,Direct Sales,2023-07-02
+CUST_0631,EMEA,Direct Sales,2022-04-19
+CUST_0632,North_America,Online Web,2022-10-21
+CUST_0633,North_America,Distributor,2023-02-12
+CUST_0634,APAC,Distributor,2022-08-02
+CUST_0635,North_America,Direct Sales,2022-03-11
+CUST_0636,EMEA,Distributor,2023-08-29
+CUST_0637,EMEA,Online Web,2022-10-14
+CUST_0638,North_America,Direct Sales,2023-04-10
+CUST_0639,EMEA,Online Web,2023-05-17
+CUST_0640,EMEA,Direct Sales,2022-12-13
+CUST_0641,North_America,Direct Sales,2023-09-02
+CUST_0642,APAC,Online Web,2022-03-29
+CUST_0643,EMEA,Distributor,2023-12-15
+CUST_0644,EMEA,Distributor,2022-01-21
+CUST_0645,LATAM,Online Web,2022-02-18
+CUST_0646,North_America,Distributor,2023-07-31
+CUST_0647,North_America,Online Web,2022-03-27
+CUST_0648,EMEA,Distributor,2023-10-12
+CUST_0649,North_America,Online Web,2022-05-13
+CUST_0650,LATAM,Direct Sales,2023-02-24
+CUST_0651,APAC,Direct Sales,2022-07-16
+CUST_0652,North_America,Online Web,2023-03-10
+CUST_0653,LATAM,Distributor,2023-11-10
+CUST_0654,EMEA,Distributor,2023-11-05
+CUST_0655,EMEA,Direct Sales,2023-08-24
+CUST_0656,LATAM,Distributor,2023-08-16
+CUST_0657,North_America,Distributor,2022-01-19
+CUST_0658,APAC,Distributor,2022-01-21
+CUST_0659,EMEA,Online Web,2022-05-05
+CUST_0660,APAC,Direct Sales,2022-11-25
+CUST_0661,EMEA,Direct Sales,2022-08-12
+CUST_0662,EMEA,Direct Sales,2022-07-28
+CUST_0663,North_America,Distributor,2023-11-15
+CUST_0664,APAC,Online Web,2023-10-18
+CUST_0665,North_America,Online Web,2022-04-20
+CUST_0666,North_America,Distributor,2022-01-14
+CUST_0667,North_America,Online Web,2023-03-17
+CUST_0668,LATAM,Online Web,2022-10-21
+CUST_0669,North_America,Distributor,2022-07-07
+CUST_0670,LATAM,Online Web,2022-05-19
+CUST_0671,North_America,Online Web,2023-12-09
+CUST_0672,APAC,Distributor,2022-10-21
+CUST_0673,North_America,Direct Sales,2022-07-01
+CUST_0674,APAC,Direct Sales,2023-12-24
+CUST_0675,EMEA,Direct Sales,2023-03-02
+CUST_0676,LATAM,Online Web,2022-04-18
+CUST_0677,North_America,Distributor,2022-11-14
+CUST_0678,North_America,Online Web,2022-07-09
+CUST_0679,EMEA,Online Web,2023-03-05
+CUST_0680,North_America,Direct Sales,2023-01-31
+CUST_0681,North_America,Direct Sales,2023-10-09
+CUST_0682,APAC,Direct Sales,2022-04-09
+CUST_0683,EMEA,Direct Sales,2022-03-21
+CUST_0684,North_America,Distributor,2022-10-03
+CUST_0685,North_America,Online Web,2023-06-24
+CUST_0686,APAC,Distributor,2022-11-08
+CUST_0687,EMEA,Online Web,2022-09-14
+CUST_0688,EMEA,Online Web,2022-06-12
+CUST_0689,APAC,Direct Sales,2022-10-08
+CUST_0690,North_America,Online Web,2022-05-07
+CUST_0691,North_America,Direct Sales,2022-02-05
+CUST_0692,EMEA,Distributor,2023-09-12
+CUST_0693,APAC,Distributor,2022-03-13
+CUST_0694,EMEA,Distributor,2022-09-14
+CUST_0695,LATAM,Direct Sales,2023-04-30
+CUST_0696,North_America,Distributor,2023-02-05
+CUST_0697,LATAM,Online Web,2022-05-12
+CUST_0698,LATAM,Online Web,2022-10-25
+CUST_0699,APAC,Distributor,2023-09-05
+CUST_0700,APAC,Online Web,2023-05-11
+CUST_0701,APAC,Online Web,2022-08-11
+CUST_0702,North_America,Direct Sales,2023-05-29
+CUST_0703,LATAM,Direct Sales,2022-11-10
+CUST_0704,EMEA,Online Web,2023-04-04
+CUST_0705,EMEA,Distributor,2022-09-16
+CUST_0706,LATAM,Distributor,2023-05-28
+CUST_0707,North_America,Direct Sales,2022-09-17
+CUST_0708,LATAM,Online Web,2023-10-12
+CUST_0709,LATAM,Online Web,2022-07-08
+CUST_0710,LATAM,Online Web,2023-04-16
+CUST_0711,North_America,Distributor,2022-10-18
+CUST_0712,North_America,Online Web,2022-06-02
+CUST_0713,EMEA,Direct Sales,2022-07-14
+CUST_0714,LATAM,Direct Sales,2022-12-04
+CUST_0715,APAC,Online Web,2023-06-07
+CUST_0716,North_America,Online Web,2022-05-12
+CUST_0717,North_America,Online Web,2023-05-30
+CUST_0718,EMEA,Distributor,2022-08-24
+CUST_0719,North_America,Distributor,2023-09-21
+CUST_0720,LATAM,Online Web,2022-12-30
+CUST_0721,EMEA,Online Web,2023-09-09
+CUST_0722,North_America,Online Web,2023-06-13
+CUST_0723,EMEA,Online Web,2022-03-14
+CUST_0724,EMEA,Distributor,2022-08-21
+CUST_0725,EMEA,Online Web,2023-07-24
+CUST_0726,APAC,Online Web,2023-03-22
+CUST_0727,North_America,Distributor,2022-05-29
+CUST_0728,LATAM,Distributor,2023-08-10
+CUST_0729,APAC,Distributor,2022-01-01
+CUST_0730,North_America,Direct Sales,2022-12-12
+CUST_0731,EMEA,Online Web,2023-02-14
+CUST_0732,LATAM,Distributor,2023-08-18
+CUST_0733,LATAM,Distributor,2022-03-26
+CUST_0734,EMEA,Direct Sales,2022-01-11
+CUST_0735,North_America,Direct Sales,2023-03-09
+CUST_0736,North_America,Direct Sales,2022-04-01
+CUST_0737,North_America,Online Web,2023-03-12
+CUST_0738,EMEA,Direct Sales,2023-04-14
+CUST_0739,EMEA,Distributor,2022-04-20
+CUST_0740,North_America,Online Web,2022-03-27
+CUST_0741,North_America,Direct Sales,2022-01-05
+CUST_0742,North_America,Distributor,2022-07-19
+CUST_0743,APAC,Direct Sales,2022-04-01
+CUST_0744,North_America,Distributor,2022-09-05
+CUST_0745,North_America,Online Web,2022-11-02
+CUST_0746,North_America,Direct Sales,2022-07-16
+CUST_0747,North_America,Direct Sales,2022-04-28
+CUST_0748,APAC,Distributor,2022-05-31
+CUST_0749,North_America,Direct Sales,2022-09-22
+CUST_0750,North_America,Distributor,2023-12-27
+CUST_0751,North_America,Direct Sales,2022-11-14
+CUST_0752,LATAM,Online Web,2022-06-27
+CUST_0753,EMEA,Distributor,2023-07-23
+CUST_0754,APAC,Distributor,2023-11-24
+CUST_0755,LATAM,Online Web,2023-10-19
+CUST_0756,APAC,Direct Sales,2022-07-14
+CUST_0757,APAC,Online Web,2022-04-02
+CUST_0758,North_America,Online Web,2023-09-24
+CUST_0759,EMEA,Direct Sales,2022-04-25
+CUST_0760,North_America,Online Web,2022-11-28
+CUST_0761,North_America,Distributor,2022-01-26
+CUST_0762,EMEA,Distributor,2022-08-12
+CUST_0763,North_America,Direct Sales,2022-11-01
+CUST_0764,APAC,Distributor,2023-02-19
+CUST_0765,EMEA,Online Web,2022-12-09
+CUST_0766,APAC,Direct Sales,2023-06-01
+CUST_0767,North_America,Distributor,2022-02-13
+CUST_0768,North_America,Distributor,2023-03-30
+CUST_0769,EMEA,Direct Sales,2023-10-27
+CUST_0770,EMEA,Direct Sales,2022-09-14
+CUST_0771,EMEA,Direct Sales,2023-05-07
+CUST_0772,LATAM,Distributor,2023-07-10
+CUST_0773,APAC,Online Web,2023-09-24
+CUST_0774,APAC,Distributor,2022-12-24
+CUST_0775,EMEA,Distributor,2022-08-12
+CUST_0776,EMEA,Distributor,2022-12-23
+CUST_0777,EMEA,Direct Sales,2022-05-14
+CUST_0778,APAC,Distributor,2022-02-14
+CUST_0779,North_America,Online Web,2023-12-21
+CUST_0780,APAC,Distributor,2022-11-29
+CUST_0781,North_America,Distributor,2023-12-14
+CUST_0782,North_America,Direct Sales,2023-07-21
+CUST_0783,APAC,Distributor,2023-11-21
+CUST_0784,EMEA,Distributor,2022-08-26
+CUST_0785,APAC,Direct Sales,2022-08-02
+CUST_0786,APAC,Direct Sales,2023-10-06
+CUST_0787,EMEA,Direct Sales,2023-06-20
+CUST_0788,EMEA,Distributor,2023-09-12
+CUST_0789,EMEA,Direct Sales,2023-03-11
+CUST_0790,EMEA,Distributor,2023-05-03
+CUST_0791,North_America,Distributor,2022-06-17
+CUST_0792,North_America,Direct Sales,2023-09-11
+CUST_0793,North_America,Online Web,2022-12-22
+CUST_0794,LATAM,Online Web,2023-07-25
+CUST_0795,North_America,Direct Sales,2022-06-30
+CUST_0796,EMEA,Online Web,2023-06-15
+CUST_0797,EMEA,Online Web,2023-07-01
+CUST_0798,North_America,Direct Sales,2022-11-11
+CUST_0799,EMEA,Direct Sales,2022-01-22
+CUST_0800,North_America,Online Web,2022-01-17
+CUST_0801,EMEA,Online Web,2023-09-13
+CUST_0802,APAC,Online Web,2023-08-31
+CUST_0803,LATAM,Online Web,2022-12-19
+CUST_0804,EMEA,Distributor,2022-06-06
+CUST_0805,APAC,Online Web,2022-05-12
+CUST_0806,North_America,Distributor,2023-03-23
+CUST_0807,APAC,Online Web,2022-02-16
+CUST_0808,North_America,Online Web,2022-03-11
+CUST_0809,North_America,Online Web,2023-07-01
+CUST_0810,APAC,Online Web,2022-11-24
+CUST_0811,EMEA,Distributor,2023-11-21
+CUST_0812,EMEA,Distributor,2023-07-26
+CUST_0813,APAC,Distributor,2022-10-27
+CUST_0814,North_America,Direct Sales,2023-01-07
+CUST_0815,LATAM,Direct Sales,2022-06-27
+CUST_0816,North_America,Direct Sales,2023-07-21
+CUST_0817,North_America,Online Web,2022-12-03
+CUST_0818,North_America,Distributor,2023-12-11
+CUST_0819,APAC,Direct Sales,2023-12-07
+CUST_0820,EMEA,Online Web,2022-04-13
+CUST_0821,APAC,Online Web,2023-07-17
+CUST_0822,APAC,Distributor,2022-10-30
+CUST_0823,LATAM,Online Web,2022-02-03
+CUST_0824,APAC,Direct Sales,2023-11-15
+CUST_0825,APAC,Direct Sales,2022-12-18
+CUST_0826,EMEA,Direct Sales,2023-03-10
+CUST_0827,North_America,Direct Sales,2022-07-23
+CUST_0828,APAC,Distributor,2023-10-13
+CUST_0829,LATAM,Distributor,2022-06-11
+CUST_0830,North_America,Direct Sales,2022-02-11
+CUST_0831,LATAM,Direct Sales,2022-06-29
+CUST_0832,EMEA,Distributor,2023-10-06
+CUST_0833,EMEA,Distributor,2022-04-05
+CUST_0834,EMEA,Distributor,2023-05-02
+CUST_0835,LATAM,Direct Sales,2023-02-05
+CUST_0836,North_America,Online Web,2023-03-16
+CUST_0837,North_America,Direct Sales,2023-07-12
+CUST_0838,EMEA,Direct Sales,2023-07-12
+CUST_0839,EMEA,Direct Sales,2023-01-24
+CUST_0840,EMEA,Distributor,2023-01-17
+CUST_0841,APAC,Distributor,2023-08-30
+CUST_0842,North_America,Direct Sales,2023-10-19
+CUST_0843,LATAM,Direct Sales,2023-01-22
+CUST_0844,EMEA,Direct Sales,2022-09-23
+CUST_0845,North_America,Direct Sales,2022-04-18
+CUST_0846,LATAM,Online Web,2022-07-28
+CUST_0847,North_America,Distributor,2022-12-27
+CUST_0848,APAC,Online Web,2022-05-18
+CUST_0849,EMEA,Distributor,2022-03-06
+CUST_0850,North_America,Online Web,2022-09-26
+CUST_0851,EMEA,Direct Sales,2023-11-29
+CUST_0852,EMEA,Online Web,2022-04-11
+CUST_0853,North_America,Distributor,2022-01-05
+CUST_0854,EMEA,Online Web,2023-01-12
+CUST_0855,EMEA,Online Web,2023-02-04
+CUST_0856,LATAM,Online Web,2022-11-17
+CUST_0857,EMEA,Direct Sales,2023-08-31
+CUST_0858,APAC,Direct Sales,2022-08-31
+CUST_0859,APAC,Online Web,2023-08-31
+CUST_0860,North_America,Direct Sales,2022-05-08
+CUST_0861,LATAM,Distributor,2023-09-11
+CUST_0862,APAC,Direct Sales,2023-11-12
+CUST_0863,North_America,Distributor,2022-10-24
+CUST_0864,APAC,Distributor,2022-10-10
+CUST_0865,North_America,Distributor,2023-02-22
+CUST_0866,North_America,Direct Sales,2022-05-13
+CUST_0867,North_America,Online Web,2022-05-19
+CUST_0868,North_America,Direct Sales,2023-11-14
+CUST_0869,EMEA,Direct Sales,2022-05-13
+CUST_0870,EMEA,Online Web,2022-10-22
+CUST_0871,EMEA,Direct Sales,2023-12-20
+CUST_0872,EMEA,Direct Sales,2023-11-09
+CUST_0873,North_America,Online Web,2022-01-28
+CUST_0874,EMEA,Online Web,2023-07-16
+CUST_0875,North_America,Direct Sales,2023-06-05
+CUST_0876,EMEA,Distributor,2023-07-02
+CUST_0877,North_America,Distributor,2022-09-26
+CUST_0878,LATAM,Direct Sales,2022-05-26
+CUST_0879,APAC,Online Web,2022-09-10
+CUST_0880,North_America,Distributor,2023-02-26
+CUST_0881,EMEA,Online Web,2023-06-21
+CUST_0882,LATAM,Direct Sales,2023-07-20
+CUST_0883,EMEA,Direct Sales,2022-05-12
+CUST_0884,North_America,Distributor,2022-09-29
+CUST_0885,EMEA,Online Web,2022-11-07
+CUST_0886,North_America,Online Web,2023-03-21
+CUST_0887,APAC,Online Web,2023-01-29
+CUST_0888,APAC,Direct Sales,2022-04-05
+CUST_0889,EMEA,Direct Sales,2022-12-20
+CUST_0890,APAC,Distributor,2022-01-31
+CUST_0891,North_America,Distributor,2023-05-19
+CUST_0892,North_America,Direct Sales,2022-08-22
+CUST_0893,North_America,Online Web,2023-05-05
+CUST_0894,North_America,Online Web,2023-10-29
+CUST_0895,APAC,Distributor,2022-03-09
+CUST_0896,EMEA,Online Web,2023-05-27
+CUST_0897,North_America,Online Web,2022-11-05
+CUST_0898,North_America,Online Web,2022-09-05
+CUST_0899,EMEA,Direct Sales,2023-06-04
+CUST_0900,EMEA,Direct Sales,2022-02-08
+CUST_0901,APAC,Direct Sales,2022-05-10
+CUST_0902,LATAM,Online Web,2023-04-10
+CUST_0903,North_America,Online Web,2022-03-13
+CUST_0904,North_America,Direct Sales,2022-12-30
+CUST_0905,North_America,Distributor,2023-07-29
+CUST_0906,APAC,Online Web,2022-05-13
+CUST_0907,North_America,Distributor,2023-10-21
+CUST_0908,North_America,Distributor,2022-12-30
+CUST_0909,EMEA,Direct Sales,2023-07-03
+CUST_0910,North_America,Direct Sales,2022-02-11
+CUST_0911,EMEA,Direct Sales,2022-03-08
+CUST_0912,LATAM,Direct Sales,2022-01-16
+CUST_0913,LATAM,Distributor,2022-08-10
+CUST_0914,North_America,Distributor,2022-01-16
+CUST_0915,EMEA,Online Web,2023-04-07
+CUST_0916,EMEA,Distributor,2022-07-27
+CUST_0917,North_America,Distributor,2023-10-21
+CUST_0918,APAC,Direct Sales,2023-06-22
+CUST_0919,EMEA,Distributor,2023-04-15
+CUST_0920,LATAM,Online Web,2023-05-24
+CUST_0921,APAC,Direct Sales,2023-10-13
+CUST_0922,EMEA,Distributor,2022-01-04
+CUST_0923,North_America,Direct Sales,2022-08-10
+CUST_0924,EMEA,Online Web,2022-02-15
+CUST_0925,EMEA,Direct Sales,2023-09-14
+CUST_0926,North_America,Direct Sales,2022-08-14
+CUST_0927,North_America,Distributor,2022-06-09
+CUST_0928,APAC,Direct Sales,2023-10-18
+CUST_0929,EMEA,Direct Sales,2023-03-18
+CUST_0930,EMEA,Distributor,2022-07-08
+CUST_0931,EMEA,Online Web,2022-05-09
+CUST_0932,APAC,Online Web,2023-07-17
+CUST_0933,APAC,Direct Sales,2023-04-14
+CUST_0934,EMEA,Online Web,2022-10-23
+CUST_0935,EMEA,Direct Sales,2023-09-16
+CUST_0936,LATAM,Direct Sales,2022-01-22
+CUST_0937,EMEA,Direct Sales,2022-02-03
+CUST_0938,EMEA,Distributor,2022-11-05
+CUST_0939,APAC,Direct Sales,2022-02-27
+CUST_0940,LATAM,Distributor,2023-10-03
+CUST_0941,EMEA,Direct Sales,2022-02-03
+CUST_0942,APAC,Direct Sales,2023-12-05
+CUST_0943,North_America,Direct Sales,2022-09-13
+CUST_0944,APAC,Direct Sales,2023-08-07
+CUST_0945,North_America,Online Web,2023-02-07
+CUST_0946,EMEA,Direct Sales,2023-01-16
+CUST_0947,EMEA,Online Web,2023-05-26
+CUST_0948,APAC,Distributor,2022-05-20
+CUST_0949,North_America,Distributor,2022-10-19
+CUST_0950,North_America,Distributor,2023-08-11
+CUST_0951,EMEA,Online Web,2022-12-23
+CUST_0952,APAC,Online Web,2023-12-16
+CUST_0953,EMEA,Direct Sales,2022-06-03
+CUST_0954,EMEA,Direct Sales,2023-12-09
+CUST_0955,EMEA,Online Web,2022-02-02
+CUST_0956,North_America,Direct Sales,2022-12-04
+CUST_0957,APAC,Distributor,2023-08-13
+CUST_0958,North_America,Online Web,2023-01-17
+CUST_0959,LATAM,Online Web,2023-07-04
+CUST_0960,North_America,Direct Sales,2022-07-25
+CUST_0961,APAC,Distributor,2023-11-14
+CUST_0962,EMEA,Online Web,2023-03-01
+CUST_0963,North_America,Online Web,2023-11-24
+CUST_0964,EMEA,Distributor,2022-09-28
+CUST_0965,North_America,Direct Sales,2022-07-01
+CUST_0966,North_America,Direct Sales,2023-06-09
+CUST_0967,APAC,Direct Sales,2022-09-18
+CUST_0968,North_America,Direct Sales,2023-05-06
+CUST_0969,APAC,Online Web,2022-03-23
+CUST_0970,North_America,Online Web,2023-02-03
+CUST_0971,APAC,Online Web,2023-12-26
+CUST_0972,North_America,Distributor,2023-02-27
+CUST_0973,APAC,Online Web,2022-09-24
+CUST_0974,EMEA,Direct Sales,2023-09-13
+CUST_0975,North_America,Direct Sales,2022-11-07
+CUST_0976,APAC,Online Web,2023-05-06
+CUST_0977,North_America,Online Web,2022-01-01
+CUST_0978,North_America,Online Web,2023-07-25
+CUST_0979,APAC,Distributor,2022-06-26
+CUST_0980,APAC,Direct Sales,2022-02-01
+CUST_0981,EMEA,Direct Sales,2023-12-21
+CUST_0982,APAC,Direct Sales,2022-09-14
+CUST_0983,EMEA,Online Web,2022-08-26
+CUST_0984,APAC,Direct Sales,2022-06-27
+CUST_0985,North_America,Online Web,2023-11-22
+CUST_0986,APAC,Distributor,2023-12-31
+CUST_0987,EMEA,Online Web,2022-01-19
+CUST_0988,EMEA,Online Web,2022-06-13
+CUST_0989,North_America,Online Web,2023-06-26
+CUST_0990,EMEA,Direct Sales,2022-08-16
+CUST_0991,EMEA,Online Web,2022-11-03
+CUST_0992,APAC,Direct Sales,2022-09-19
+CUST_0993,EMEA,Online Web,2022-11-26
+CUST_0994,North_America,Distributor,2023-02-07
+CUST_0995,LATAM,Direct Sales,2023-01-03
+CUST_0996,North_America,Distributor,2023-02-15
+CUST_0997,APAC,Direct Sales,2022-06-15
+CUST_0998,APAC,Distributor,2022-09-29
+CUST_0999,EMEA,Direct Sales,2023-01-19
+CUST_1000,APAC,Online Web,2022-06-19
+CUST_1001,North_America,Distributor,2022-01-07
+CUST_1002,EMEA,Online Web,2022-06-09
+CUST_1003,APAC,Direct Sales,2023-07-15
+CUST_1004,EMEA,Direct Sales,2023-04-20
+CUST_1005,LATAM,Distributor,2023-04-21
+CUST_1006,North_America,Online Web,2022-10-12
+CUST_1007,LATAM,Direct Sales,2023-05-08
+CUST_1008,APAC,Distributor,2023-10-07
+CUST_1009,LATAM,Direct Sales,2022-11-23
+CUST_1010,North_America,Distributor,2023-10-09
+CUST_1011,EMEA,Distributor,2022-07-01
+CUST_1012,North_America,Distributor,2022-12-02
+CUST_1013,North_America,Online Web,2023-08-04
+CUST_1014,LATAM,Direct Sales,2022-05-25
+CUST_1015,EMEA,Distributor,2023-12-09
+CUST_1016,North_America,Distributor,2023-09-24
+CUST_1017,EMEA,Online Web,2022-02-19
+CUST_1018,North_America,Direct Sales,2023-05-31
+CUST_1019,EMEA,Direct Sales,2023-02-13
+CUST_1020,EMEA,Distributor,2023-07-23
+CUST_1021,North_America,Direct Sales,2023-11-16
+CUST_1022,North_America,Direct Sales,2023-08-25
+CUST_1023,North_America,Direct Sales,2022-06-07
+CUST_1024,North_America,Online Web,2023-04-24
+CUST_1025,North_America,Distributor,2022-08-06
+CUST_1026,EMEA,Distributor,2023-05-28
+CUST_1027,APAC,Online Web,2022-05-01
+CUST_1028,North_America,Distributor,2023-12-06
+CUST_1029,North_America,Direct Sales,2023-02-11
+CUST_1030,APAC,Online Web,2022-12-05
+CUST_1031,APAC,Online Web,2023-03-10
+CUST_1032,APAC,Distributor,2023-06-29
+CUST_1033,APAC,Online Web,2022-11-20
+CUST_1034,North_America,Online Web,2022-12-03
+CUST_1035,North_America,Distributor,2022-08-09
+CUST_1036,North_America,Online Web,2023-12-22
+CUST_1037,North_America,Online Web,2022-03-07
+CUST_1038,APAC,Distributor,2022-04-02
+CUST_1039,APAC,Direct Sales,2022-08-18
+CUST_1040,EMEA,Distributor,2023-10-06
+CUST_1041,EMEA,Online Web,2022-09-11
+CUST_1042,North_America,Direct Sales,2023-01-31
+CUST_1043,North_America,Direct Sales,2022-06-10
+CUST_1044,EMEA,Distributor,2022-09-08
+CUST_1045,North_America,Direct Sales,2023-12-31
+CUST_1046,APAC,Online Web,2023-02-22
+CUST_1047,North_America,Direct Sales,2022-08-24
+CUST_1048,North_America,Direct Sales,2022-12-16
+CUST_1049,APAC,Distributor,2022-03-24
+CUST_1050,APAC,Online Web,2022-07-08
+CUST_1051,North_America,Online Web,2022-03-02
+CUST_1052,APAC,Distributor,2022-02-27
+CUST_1053,EMEA,Direct Sales,2022-03-30
+CUST_1054,EMEA,Direct Sales,2023-10-08
+CUST_1055,North_America,Online Web,2023-04-28
+CUST_1056,North_America,Direct Sales,2023-01-24
+CUST_1057,North_America,Online Web,2022-08-09
+CUST_1058,EMEA,Direct Sales,2022-09-26
+CUST_1059,APAC,Distributor,2023-03-25
+CUST_1060,North_America,Online Web,2022-12-14
+CUST_1061,North_America,Direct Sales,2023-06-02
+CUST_1062,EMEA,Online Web,2022-01-08
+CUST_1063,EMEA,Online Web,2022-07-06
+CUST_1064,APAC,Direct Sales,2023-10-31
+CUST_1065,North_America,Direct Sales,2023-07-24
+CUST_1066,North_America,Online Web,2023-10-15
+CUST_1067,EMEA,Online Web,2023-03-15
+CUST_1068,North_America,Online Web,2023-09-03
+CUST_1069,LATAM,Online Web,2023-10-22
+CUST_1070,LATAM,Distributor,2023-03-21
+CUST_1071,EMEA,Online Web,2022-11-23
+CUST_1072,APAC,Online Web,2022-10-11
+CUST_1073,EMEA,Distributor,2022-06-22
+CUST_1074,EMEA,Direct Sales,2023-09-30
+CUST_1075,North_America,Distributor,2022-05-27
+CUST_1076,North_America,Direct Sales,2023-05-08
+CUST_1077,APAC,Direct Sales,2023-08-06
+CUST_1078,North_America,Direct Sales,2023-01-19
+CUST_1079,APAC,Distributor,2023-12-09
+CUST_1080,EMEA,Online Web,2022-05-20
+CUST_1081,EMEA,Online Web,2023-05-11
+CUST_1082,EMEA,Distributor,2023-03-31
+CUST_1083,LATAM,Direct Sales,2023-04-21
+CUST_1084,EMEA,Direct Sales,2022-07-07
+CUST_1085,North_America,Direct Sales,2023-04-11
+CUST_1086,North_America,Direct Sales,2023-12-05
+CUST_1087,North_America,Direct Sales,2023-06-16
+CUST_1088,EMEA,Online Web,2023-05-14
+CUST_1089,North_America,Distributor,2023-09-04
+CUST_1090,EMEA,Online Web,2023-09-03
+CUST_1091,North_America,Distributor,2022-11-04
+CUST_1092,North_America,Direct Sales,2023-07-03
+CUST_1093,North_America,Direct Sales,2023-04-03
+CUST_1094,EMEA,Distributor,2023-09-22
+CUST_1095,EMEA,Distributor,2023-04-21
+CUST_1096,APAC,Direct Sales,2022-04-11
+CUST_1097,APAC,Distributor,2023-05-11
+CUST_1098,APAC,Distributor,2022-02-04
+CUST_1099,North_America,Direct Sales,2023-11-23
+CUST_1100,APAC,Direct Sales,2023-04-11
+CUST_1101,North_America,Direct Sales,2022-07-17
+CUST_1102,APAC,Distributor,2022-05-05
+CUST_1103,North_America,Direct Sales,2022-12-20
+CUST_1104,APAC,Direct Sales,2023-05-17
+CUST_1105,APAC,Online Web,2022-01-12
+CUST_1106,North_America,Online Web,2023-01-26
+CUST_1107,North_America,Distributor,2023-03-23
+CUST_1108,North_America,Distributor,2022-11-18
+CUST_1109,North_America,Direct Sales,2022-03-03
+CUST_1110,LATAM,Direct Sales,2022-07-20
+CUST_1111,LATAM,Direct Sales,2022-05-10
+CUST_1112,EMEA,Online Web,2022-05-05
+CUST_1113,APAC,Online Web,2023-07-15
+CUST_1114,APAC,Direct Sales,2023-03-16
+CUST_1115,LATAM,Distributor,2023-07-08
+CUST_1116,North_America,Distributor,2022-01-01
+CUST_1117,North_America,Direct Sales,2022-04-26
+CUST_1118,EMEA,Distributor,2022-05-10
+CUST_1119,APAC,Online Web,2023-08-26
+CUST_1120,North_America,Online Web,2022-07-13
+CUST_1121,North_America,Online Web,2022-05-18
+CUST_1122,North_America,Online Web,2022-08-14
+CUST_1123,North_America,Distributor,2022-09-17
+CUST_1124,EMEA,Distributor,2022-01-21
+CUST_1125,APAC,Distributor,2022-12-21
+CUST_1126,EMEA,Distributor,2023-12-24
+CUST_1127,EMEA,Distributor,2022-03-03
+CUST_1128,LATAM,Direct Sales,2022-02-14
+CUST_1129,North_America,Online Web,2022-07-25
+CUST_1130,EMEA,Distributor,2022-02-09
+CUST_1131,North_America,Direct Sales,2022-07-17
+CUST_1132,North_America,Online Web,2022-08-13
+CUST_1133,North_America,Online Web,2023-09-10
+CUST_1134,North_America,Online Web,2022-07-31
+CUST_1135,North_America,Direct Sales,2022-08-07
+CUST_1136,North_America,Distributor,2023-06-14
+CUST_1137,North_America,Online Web,2022-01-07
+CUST_1138,North_America,Distributor,2022-07-08
+CUST_1139,North_America,Online Web,2023-04-18
+CUST_1140,North_America,Online Web,2022-09-28
+CUST_1141,EMEA,Online Web,2023-05-03
+CUST_1142,APAC,Online Web,2022-12-27
+CUST_1143,APAC,Distributor,2023-01-11
+CUST_1144,North_America,Distributor,2022-12-22
+CUST_1145,APAC,Distributor,2022-12-12
+CUST_1146,EMEA,Online Web,2022-09-07
+CUST_1147,LATAM,Distributor,2022-10-27
+CUST_1148,LATAM,Online Web,2022-01-18
+CUST_1149,LATAM,Online Web,2023-10-24
+CUST_1150,North_America,Distributor,2023-04-08
+CUST_1151,LATAM,Direct Sales,2022-04-18
+CUST_1152,EMEA,Direct Sales,2022-06-21
+CUST_1153,APAC,Online Web,2023-08-19
+CUST_1154,EMEA,Distributor,2022-02-12
+CUST_1155,APAC,Distributor,2022-08-07
+CUST_1156,LATAM,Distributor,2023-02-14
+CUST_1157,EMEA,Direct Sales,2022-10-17
+CUST_1158,North_America,Direct Sales,2023-01-13
+CUST_1159,North_America,Distributor,2022-12-15
+CUST_1160,EMEA,Distributor,2022-07-10
+CUST_1161,APAC,Online Web,2023-12-26
+CUST_1162,APAC,Distributor,2023-11-24
+CUST_1163,North_America,Direct Sales,2023-04-28
+CUST_1164,North_America,Distributor,2022-12-09
+CUST_1165,EMEA,Direct Sales,2023-11-01
+CUST_1166,North_America,Online Web,2022-11-05
+CUST_1167,North_America,Distributor,2023-10-23
+CUST_1168,North_America,Online Web,2023-05-07
+CUST_1169,North_America,Direct Sales,2023-10-26
+CUST_1170,APAC,Online Web,2023-05-22
+CUST_1171,North_America,Distributor,2022-01-15
+CUST_1172,North_America,Direct Sales,2023-04-26
+CUST_1173,APAC,Distributor,2022-01-30
+CUST_1174,North_America,Distributor,2022-09-19
+CUST_1175,North_America,Direct Sales,2023-07-03
+CUST_1176,EMEA,Online Web,2023-09-12
+CUST_1177,North_America,Direct Sales,2022-04-03
+CUST_1178,EMEA,Direct Sales,2022-12-06
+CUST_1179,LATAM,Distributor,2022-04-21
+CUST_1180,North_America,Distributor,2022-01-29
+CUST_1181,LATAM,Online Web,2023-03-11
+CUST_1182,North_America,Direct Sales,2023-12-30
+CUST_1183,EMEA,Distributor,2023-01-18
+CUST_1184,EMEA,Online Web,2023-12-08
+CUST_1185,APAC,Distributor,2023-12-23
+CUST_1186,North_America,Distributor,2022-01-04
+CUST_1187,LATAM,Online Web,2022-06-29
+CUST_1188,EMEA,Direct Sales,2023-01-17
+CUST_1189,LATAM,Online Web,2023-01-03
+CUST_1190,APAC,Online Web,2023-01-10
+CUST_1191,EMEA,Online Web,2023-08-27
+CUST_1192,EMEA,Distributor,2022-12-14
+CUST_1193,North_America,Distributor,2023-11-22
+CUST_1194,APAC,Online Web,2022-10-04
+CUST_1195,North_America,Direct Sales,2022-11-24
+CUST_1196,APAC,Distributor,2022-09-29
+CUST_1197,North_America,Online Web,2023-02-04
+CUST_1198,North_America,Direct Sales,2022-06-21
+CUST_1199,EMEA,Direct Sales,2023-09-10
+CUST_1200,EMEA,Distributor,2022-08-25
+CUST_1201,EMEA,Distributor,2023-11-13
+CUST_1202,APAC,Online Web,2022-11-13
+CUST_1203,APAC,Distributor,2023-07-06
+CUST_1204,EMEA,Direct Sales,2022-03-22
+CUST_1205,North_America,Online Web,2022-03-31
+CUST_1206,North_America,Distributor,2023-11-16
+CUST_1207,North_America,Online Web,2023-05-09
+CUST_1208,EMEA,Direct Sales,2022-03-15
+CUST_1209,EMEA,Distributor,2022-03-25
+CUST_1210,North_America,Online Web,2023-11-29
+CUST_1211,APAC,Distributor,2022-07-27
+CUST_1212,LATAM,Online Web,2022-04-25
+CUST_1213,EMEA,Online Web,2022-12-19
+CUST_1214,EMEA,Direct Sales,2023-02-03
+CUST_1215,APAC,Online Web,2022-11-25
+CUST_1216,APAC,Distributor,2022-08-15
+CUST_1217,North_America,Direct Sales,2022-09-09
+CUST_1218,North_America,Direct Sales,2022-02-25
+CUST_1219,North_America,Distributor,2022-05-16
+CUST_1220,North_America,Distributor,2023-07-21
+CUST_1221,EMEA,Online Web,2022-09-15
+CUST_1222,EMEA,Direct Sales,2023-07-30
+CUST_1223,EMEA,Online Web,2023-02-11
+CUST_1224,North_America,Online Web,2022-06-21
+CUST_1225,EMEA,Distributor,2023-10-29
+CUST_1226,North_America,Distributor,2022-01-08
+CUST_1227,EMEA,Distributor,2022-12-16
+CUST_1228,APAC,Online Web,2022-11-18
+CUST_1229,North_America,Online Web,2022-07-15
+CUST_1230,LATAM,Distributor,2023-01-22
+CUST_1231,LATAM,Direct Sales,2022-10-03
+CUST_1232,LATAM,Distributor,2023-05-25
+CUST_1233,APAC,Online Web,2022-07-03
+CUST_1234,North_America,Direct Sales,2022-06-23
+CUST_1235,North_America,Distributor,2023-12-29
+CUST_1236,North_America,Distributor,2023-08-17
+CUST_1237,APAC,Online Web,2023-11-18
+CUST_1238,North_America,Direct Sales,2022-01-24
+CUST_1239,LATAM,Direct Sales,2023-11-04
+CUST_1240,EMEA,Distributor,2022-03-05
+CUST_1241,APAC,Online Web,2022-06-08
+CUST_1242,EMEA,Direct Sales,2022-02-03
+CUST_1243,EMEA,Online Web,2022-11-09
+CUST_1244,EMEA,Distributor,2022-12-29
+CUST_1245,LATAM,Distributor,2023-04-26
+CUST_1246,North_America,Online Web,2022-05-29
+CUST_1247,LATAM,Online Web,2022-03-03
+CUST_1248,APAC,Direct Sales,2022-05-21
+CUST_1249,North_America,Distributor,2022-10-22
+CUST_1250,EMEA,Distributor,2023-10-29
+CUST_1251,EMEA,Distributor,2022-12-29
+CUST_1252,North_America,Online Web,2023-08-16
+CUST_1253,LATAM,Direct Sales,2022-09-23
+CUST_1254,EMEA,Direct Sales,2022-09-11
+CUST_1255,North_America,Online Web,2022-11-19
+CUST_1256,EMEA,Direct Sales,2022-09-02
+CUST_1257,EMEA,Distributor,2022-03-05
+CUST_1258,North_America,Distributor,2022-09-12
+CUST_1259,North_America,Direct Sales,2022-09-17
+CUST_1260,North_America,Distributor,2023-03-18
+CUST_1261,APAC,Direct Sales,2022-04-26
+CUST_1262,LATAM,Distributor,2023-09-05
+CUST_1263,APAC,Distributor,2022-03-27
+CUST_1264,North_America,Distributor,2023-07-28
+CUST_1265,APAC,Direct Sales,2022-06-30
+CUST_1266,EMEA,Direct Sales,2022-01-02
+CUST_1267,North_America,Distributor,2023-10-15
+CUST_1268,LATAM,Distributor,2023-08-29
+CUST_1269,North_America,Distributor,2023-12-04
+CUST_1270,EMEA,Online Web,2022-07-17
+CUST_1271,North_America,Direct Sales,2022-11-21
+CUST_1272,North_America,Distributor,2023-05-17
+CUST_1273,LATAM,Direct Sales,2023-01-29
+CUST_1274,APAC,Online Web,2023-01-04
+CUST_1275,EMEA,Online Web,2022-05-24
+CUST_1276,North_America,Online Web,2023-09-23
+CUST_1277,North_America,Distributor,2022-08-27
+CUST_1278,North_America,Direct Sales,2022-08-08
+CUST_1279,APAC,Online Web,2023-03-15
+CUST_1280,North_America,Distributor,2023-06-06
+CUST_1281,LATAM,Distributor,2023-04-10
+CUST_1282,EMEA,Direct Sales,2022-10-15
+CUST_1283,EMEA,Direct Sales,2023-03-03
+CUST_1284,North_America,Online Web,2022-07-21
+CUST_1285,APAC,Direct Sales,2023-04-03
+CUST_1286,EMEA,Direct Sales,2022-08-21
+CUST_1287,EMEA,Distributor,2022-10-16
+CUST_1288,EMEA,Online Web,2023-06-16
+CUST_1289,APAC,Direct Sales,2022-02-08
+CUST_1290,APAC,Online Web,2022-08-12
+CUST_1291,LATAM,Direct Sales,2022-12-15
+CUST_1292,North_America,Distributor,2023-04-24
+CUST_1293,APAC,Distributor,2022-07-30
+CUST_1294,EMEA,Distributor,2022-04-13
+CUST_1295,North_America,Direct Sales,2023-07-21
+CUST_1296,North_America,Distributor,2023-12-22
+CUST_1297,EMEA,Direct Sales,2022-02-09
+CUST_1298,EMEA,Direct Sales,2022-06-28
+CUST_1299,LATAM,Distributor,2022-02-02
+CUST_1300,North_America,Online Web,2022-07-22
+CUST_1301,APAC,Online Web,2022-10-06
+CUST_1302,EMEA,Direct Sales,2023-03-24
+CUST_1303,North_America,Online Web,2022-01-16
+CUST_1304,EMEA,Distributor,2022-03-14
+CUST_1305,North_America,Distributor,2022-03-31
+CUST_1306,North_America,Online Web,2022-06-23
+CUST_1307,APAC,Distributor,2022-01-17
+CUST_1308,LATAM,Distributor,2022-09-12
+CUST_1309,APAC,Online Web,2022-03-31
+CUST_1310,APAC,Distributor,2022-05-07
+CUST_1311,EMEA,Online Web,2022-03-18
+CUST_1312,APAC,Direct Sales,2022-03-12
+CUST_1313,EMEA,Direct Sales,2022-03-22
+CUST_1314,North_America,Direct Sales,2022-01-20
+CUST_1315,APAC,Direct Sales,2022-10-03
+CUST_1316,EMEA,Direct Sales,2023-01-16
+CUST_1317,APAC,Online Web,2023-01-19
+CUST_1318,North_America,Online Web,2022-06-28
+CUST_1319,North_America,Online Web,2023-04-01
+CUST_1320,EMEA,Online Web,2023-01-30
+CUST_1321,North_America,Online Web,2023-09-06
+CUST_1322,APAC,Online Web,2022-02-18
+CUST_1323,EMEA,Direct Sales,2023-03-15
+CUST_1324,LATAM,Direct Sales,2022-07-04
+CUST_1325,North_America,Distributor,2023-04-26
+CUST_1326,EMEA,Direct Sales,2022-07-20
+CUST_1327,North_America,Online Web,2023-06-09
+CUST_1328,LATAM,Online Web,2023-04-20
+CUST_1329,APAC,Distributor,2022-11-25
+CUST_1330,EMEA,Online Web,2022-03-20
+CUST_1331,North_America,Distributor,2022-12-29
+CUST_1332,North_America,Direct Sales,2022-06-28
+CUST_1333,North_America,Distributor,2023-12-07
+CUST_1334,North_America,Distributor,2022-11-15
+CUST_1335,EMEA,Online Web,2023-11-07
+CUST_1336,APAC,Direct Sales,2022-11-11
+CUST_1337,EMEA,Distributor,2023-09-06
+CUST_1338,North_America,Online Web,2022-02-13
+CUST_1339,EMEA,Distributor,2023-10-16
+CUST_1340,APAC,Distributor,2022-08-10
+CUST_1341,APAC,Distributor,2023-11-19
+CUST_1342,North_America,Direct Sales,2022-07-25
+CUST_1343,North_America,Distributor,2022-02-15
+CUST_1344,EMEA,Online Web,2023-06-12
+CUST_1345,EMEA,Direct Sales,2023-07-19
+CUST_1346,North_America,Online Web,2022-11-20
+CUST_1347,North_America,Direct Sales,2023-10-30
+CUST_1348,North_America,Online Web,2022-08-30
+CUST_1349,APAC,Distributor,2023-09-19
+CUST_1350,North_America,Distributor,2023-04-24
+CUST_1351,EMEA,Direct Sales,2022-04-24
+CUST_1352,EMEA,Distributor,2022-10-04
+CUST_1353,APAC,Distributor,2023-07-21
+CUST_1354,EMEA,Direct Sales,2023-03-03
+CUST_1355,APAC,Distributor,2022-08-05
+CUST_1356,North_America,Direct Sales,2022-05-07
+CUST_1357,APAC,Direct Sales,2022-02-04
+CUST_1358,EMEA,Online Web,2022-06-17
+CUST_1359,North_America,Online Web,2023-05-08
+CUST_1360,APAC,Distributor,2022-05-03
+CUST_1361,North_America,Distributor,2022-07-07
+CUST_1362,North_America,Direct Sales,2022-07-26
+CUST_1363,EMEA,Online Web,2022-05-14
+CUST_1364,North_America,Direct Sales,2022-06-25
+CUST_1365,EMEA,Direct Sales,2023-10-04
+CUST_1366,North_America,Online Web,2023-03-13
+CUST_1367,North_America,Online Web,2022-03-21
+CUST_1368,LATAM,Online Web,2023-08-26
+CUST_1369,APAC,Direct Sales,2022-09-29
+CUST_1370,North_America,Direct Sales,2022-03-24
+CUST_1371,North_America,Online Web,2022-09-05
+CUST_1372,EMEA,Online Web,2022-08-02
+CUST_1373,North_America,Direct Sales,2023-06-14
+CUST_1374,North_America,Online Web,2023-07-03
+CUST_1375,APAC,Direct Sales,2022-01-19
+CUST_1376,EMEA,Online Web,2023-11-25
+CUST_1377,EMEA,Direct Sales,2023-09-24
+CUST_1378,North_America,Distributor,2023-03-28
+CUST_1379,North_America,Distributor,2023-11-26
+CUST_1380,North_America,Distributor,2023-09-15
+CUST_1381,EMEA,Direct Sales,2023-04-10
+CUST_1382,EMEA,Distributor,2023-09-27
+CUST_1383,APAC,Distributor,2022-10-05
+CUST_1384,North_America,Direct Sales,2023-08-15
+CUST_1385,APAC,Direct Sales,2022-09-17
+CUST_1386,LATAM,Direct Sales,2023-06-16
+CUST_1387,North_America,Direct Sales,2023-03-28
+CUST_1388,EMEA,Distributor,2022-05-14
+CUST_1389,EMEA,Distributor,2023-07-28
+CUST_1390,APAC,Online Web,2023-04-21
+CUST_1391,North_America,Direct Sales,2023-07-05
+CUST_1392,North_America,Distributor,2022-12-19
+CUST_1393,APAC,Distributor,2023-05-05
+CUST_1394,EMEA,Distributor,2022-09-08
+CUST_1395,APAC,Online Web,2023-06-09
+CUST_1396,North_America,Direct Sales,2023-09-15
+CUST_1397,North_America,Distributor,2022-04-22
+CUST_1398,North_America,Distributor,2022-05-19
+CUST_1399,EMEA,Online Web,2022-03-11
+CUST_1400,North_America,Distributor,2023-10-20
+CUST_1401,EMEA,Distributor,2022-03-13
+CUST_1402,North_America,Online Web,2022-06-25
+CUST_1403,LATAM,Direct Sales,2023-09-09
+CUST_1404,North_America,Distributor,2022-08-30
+CUST_1405,APAC,Distributor,2023-06-25
+CUST_1406,North_America,Online Web,2022-05-09
+CUST_1407,LATAM,Online Web,2023-06-21
+CUST_1408,North_America,Online Web,2023-08-23
+CUST_1409,APAC,Direct Sales,2023-03-06
+CUST_1410,EMEA,Direct Sales,2023-11-07
+CUST_1411,APAC,Direct Sales,2022-10-26
+CUST_1412,LATAM,Distributor,2022-01-17
+CUST_1413,APAC,Online Web,2022-10-16
+CUST_1414,EMEA,Online Web,2023-01-30
+CUST_1415,EMEA,Direct Sales,2022-07-10
+CUST_1416,APAC,Online Web,2023-11-19
+CUST_1417,LATAM,Direct Sales,2023-01-05
+CUST_1418,EMEA,Direct Sales,2023-09-05
+CUST_1419,North_America,Online Web,2022-02-23
+CUST_1420,EMEA,Direct Sales,2022-03-15
+CUST_1421,EMEA,Direct Sales,2023-09-07
+CUST_1422,North_America,Direct Sales,2022-07-22
+CUST_1423,APAC,Online Web,2023-06-06
+CUST_1424,North_America,Distributor,2022-09-16
+CUST_1425,EMEA,Direct Sales,2023-01-05
+CUST_1426,North_America,Distributor,2022-05-16
+CUST_1427,LATAM,Direct Sales,2022-06-08
+CUST_1428,APAC,Distributor,2023-10-08
+CUST_1429,North_America,Direct Sales,2023-05-09
+CUST_1430,EMEA,Online Web,2022-12-24
+CUST_1431,EMEA,Online Web,2023-08-06
+CUST_1432,EMEA,Distributor,2023-04-20
+CUST_1433,LATAM,Direct Sales,2022-06-22
+CUST_1434,LATAM,Online Web,2022-12-18
+CUST_1435,EMEA,Distributor,2023-01-17
+CUST_1436,APAC,Distributor,2023-11-21
+CUST_1437,EMEA,Distributor,2022-09-06
+CUST_1438,APAC,Online Web,2022-08-03
+CUST_1439,North_America,Online Web,2023-11-16
+CUST_1440,North_America,Online Web,2022-10-12
+CUST_1441,EMEA,Direct Sales,2022-10-12
+CUST_1442,EMEA,Distributor,2022-08-16
+CUST_1443,EMEA,Distributor,2023-09-18
+CUST_1444,North_America,Direct Sales,2023-06-04
+CUST_1445,North_America,Direct Sales,2023-08-31
+CUST_1446,North_America,Online Web,2022-04-15
+CUST_1447,APAC,Distributor,2023-05-10
+CUST_1448,EMEA,Distributor,2023-12-16
+CUST_1449,EMEA,Direct Sales,2023-08-10
+CUST_1450,APAC,Distributor,2022-05-09
+CUST_1451,LATAM,Direct Sales,2023-05-03
+CUST_1452,EMEA,Online Web,2022-10-12
+CUST_1453,EMEA,Distributor,2023-10-26
+CUST_1454,APAC,Online Web,2022-09-21
+CUST_1455,EMEA,Distributor,2023-04-16
+CUST_1456,EMEA,Online Web,2022-06-27
+CUST_1457,EMEA,Direct Sales,2022-08-09
+CUST_1458,North_America,Distributor,2023-09-30
+CUST_1459,APAC,Online Web,2022-11-08
+CUST_1460,North_America,Online Web,2022-01-30
+CUST_1461,EMEA,Direct Sales,2023-06-19
+CUST_1462,APAC,Online Web,2023-04-16
+CUST_1463,EMEA,Distributor,2022-10-15
+CUST_1464,EMEA,Direct Sales,2022-01-19
+CUST_1465,EMEA,Online Web,2023-01-09
+CUST_1466,LATAM,Distributor,2022-01-15
+CUST_1467,EMEA,Direct Sales,2023-01-23
+CUST_1468,APAC,Distributor,2022-05-11
+CUST_1469,APAC,Direct Sales,2023-09-29
+CUST_1470,North_America,Online Web,2023-07-04
+CUST_1471,EMEA,Online Web,2022-10-06
+CUST_1472,APAC,Online Web,2023-07-29
+CUST_1473,EMEA,Online Web,2022-04-03
+CUST_1474,LATAM,Online Web,2022-05-23
+CUST_1475,APAC,Direct Sales,2023-02-03
+CUST_1476,EMEA,Direct Sales,2023-06-10
+CUST_1477,North_America,Online Web,2023-08-10
+CUST_1478,North_America,Online Web,2023-09-13
+CUST_1479,EMEA,Online Web,2022-07-06
+CUST_1480,EMEA,Online Web,2023-07-04
+CUST_1481,EMEA,Direct Sales,2023-01-16
+CUST_1482,North_America,Distributor,2022-07-19
+CUST_1483,North_America,Online Web,2022-06-09
+CUST_1484,LATAM,Direct Sales,2022-01-25
+CUST_1485,LATAM,Direct Sales,2023-06-09
+CUST_1486,EMEA,Distributor,2022-04-16
+CUST_1487,APAC,Online Web,2023-05-09
+CUST_1488,North_America,Direct Sales,2022-04-18
+CUST_1489,APAC,Online Web,2023-09-13
+CUST_1490,EMEA,Online Web,2023-03-21
+CUST_1491,EMEA,Direct Sales,2022-11-09
+CUST_1492,EMEA,Online Web,2023-11-12
+CUST_1493,APAC,Direct Sales,2023-06-02
+CUST_1494,North_America,Direct Sales,2023-02-13
+CUST_1495,North_America,Distributor,2023-08-22
+CUST_1496,EMEA,Direct Sales,2023-06-17
+CUST_1497,North_America,Distributor,2023-05-14
+CUST_1498,LATAM,Direct Sales,2022-01-04
+CUST_1499,LATAM,Direct Sales,2023-09-20
+CUST_1500,LATAM,Online Web,2022-03-27
+CUST_1501,EMEA,Online Web,2023-04-11
+CUST_1502,North_America,Direct Sales,2023-08-16
+CUST_1503,North_America,Direct Sales,2023-08-25
+CUST_1504,EMEA,Direct Sales,2023-09-03
+CUST_1505,North_America,Direct Sales,2023-01-13
+CUST_1506,North_America,Direct Sales,2022-09-08
+CUST_1507,EMEA,Distributor,2022-12-20
+CUST_1508,LATAM,Direct Sales,2022-11-28
+CUST_1509,EMEA,Online Web,2022-04-16
+CUST_1510,North_America,Online Web,2023-12-08
+CUST_1511,EMEA,Direct Sales,2023-11-25
+CUST_1512,EMEA,Online Web,2022-01-26
+CUST_1513,North_America,Distributor,2023-10-21
+CUST_1514,APAC,Direct Sales,2022-05-03
+CUST_1515,North_America,Distributor,2022-06-15
+CUST_1516,APAC,Online Web,2022-09-07
+CUST_1517,LATAM,Distributor,2023-12-25
+CUST_1518,North_America,Direct Sales,2022-10-19
+CUST_1519,EMEA,Direct Sales,2023-07-31
+CUST_1520,EMEA,Distributor,2022-08-02
+CUST_1521,EMEA,Online Web,2022-08-23
+CUST_1522,North_America,Online Web,2023-08-03
+CUST_1523,EMEA,Distributor,2023-05-04
+CUST_1524,LATAM,Direct Sales,2022-02-15
+CUST_1525,APAC,Direct Sales,2022-11-13
+CUST_1526,North_America,Direct Sales,2022-08-12
+CUST_1527,North_America,Direct Sales,2023-01-27
+CUST_1528,LATAM,Distributor,2023-11-17
+CUST_1529,EMEA,Direct Sales,2023-04-19
+CUST_1530,APAC,Online Web,2022-09-19
+CUST_1531,EMEA,Online Web,2022-02-28
+CUST_1532,LATAM,Online Web,2022-06-30
+CUST_1533,EMEA,Distributor,2022-07-31
+CUST_1534,EMEA,Direct Sales,2023-08-27
+CUST_1535,APAC,Direct Sales,2022-03-30
+CUST_1536,North_America,Direct Sales,2022-03-27
+CUST_1537,North_America,Distributor,2023-01-26
+CUST_1538,APAC,Online Web,2022-07-08
+CUST_1539,North_America,Online Web,2023-06-30
+CUST_1540,EMEA,Distributor,2023-03-24
+CUST_1541,EMEA,Direct Sales,2023-12-07
+CUST_1542,LATAM,Direct Sales,2023-10-01
+CUST_1543,North_America,Distributor,2022-05-31
+CUST_1544,APAC,Online Web,2022-08-03
+CUST_1545,LATAM,Distributor,2023-08-06
+CUST_1546,EMEA,Online Web,2023-03-14
+CUST_1547,North_America,Direct Sales,2022-11-02
+CUST_1548,APAC,Online Web,2022-04-19
+CUST_1549,North_America,Direct Sales,2022-03-27
+CUST_1550,APAC,Direct Sales,2022-03-12
+CUST_1551,North_America,Distributor,2022-12-06
+CUST_1552,EMEA,Distributor,2023-05-15
+CUST_1553,North_America,Online Web,2022-05-28
+CUST_1554,EMEA,Online Web,2022-08-26
+CUST_1555,EMEA,Direct Sales,2023-06-01
+CUST_1556,EMEA,Direct Sales,2022-03-21
+CUST_1557,APAC,Online Web,2022-03-12
+CUST_1558,North_America,Distributor,2023-02-13
+CUST_1559,North_America,Distributor,2022-09-10
+CUST_1560,North_America,Distributor,2023-06-09
+CUST_1561,APAC,Direct Sales,2022-10-27
+CUST_1562,LATAM,Direct Sales,2023-04-30
+CUST_1563,North_America,Online Web,2022-07-23
+CUST_1564,EMEA,Direct Sales,2023-07-28
+CUST_1565,LATAM,Direct Sales,2022-12-05
+CUST_1566,North_America,Distributor,2023-08-24
+CUST_1567,North_America,Direct Sales,2023-03-19
+CUST_1568,North_America,Distributor,2023-08-27
+CUST_1569,APAC,Direct Sales,2023-09-11
+CUST_1570,North_America,Distributor,2022-11-30
+CUST_1571,North_America,Direct Sales,2022-06-24
+CUST_1572,EMEA,Online Web,2023-04-05
+CUST_1573,EMEA,Distributor,2022-05-20
+CUST_1574,North_America,Online Web,2022-08-25
+CUST_1575,North_America,Distributor,2022-05-26
+CUST_1576,North_America,Direct Sales,2023-02-22
+CUST_1577,North_America,Online Web,2023-04-21
+CUST_1578,North_America,Distributor,2023-05-09
+CUST_1579,EMEA,Online Web,2022-09-16
+CUST_1580,North_America,Online Web,2023-01-18
+CUST_1581,North_America,Distributor,2023-12-13
+CUST_1582,APAC,Distributor,2023-01-24
+CUST_1583,EMEA,Distributor,2022-12-26
+CUST_1584,North_America,Distributor,2022-03-19
+CUST_1585,APAC,Direct Sales,2023-09-28
+CUST_1586,EMEA,Online Web,2023-06-12
+CUST_1587,EMEA,Direct Sales,2022-02-17
+CUST_1588,North_America,Distributor,2022-08-07
+CUST_1589,EMEA,Online Web,2023-05-18
+CUST_1590,EMEA,Direct Sales,2023-06-17
+CUST_1591,EMEA,Distributor,2023-11-26
+CUST_1592,EMEA,Distributor,2023-07-01
+CUST_1593,North_America,Distributor,2022-01-22
+CUST_1594,North_America,Distributor,2023-03-29
+CUST_1595,EMEA,Direct Sales,2023-11-26
+CUST_1596,APAC,Direct Sales,2023-03-14
+CUST_1597,EMEA,Online Web,2023-06-29
+CUST_1598,North_America,Distributor,2022-02-28
+CUST_1599,LATAM,Online Web,2023-11-22
+CUST_1600,EMEA,Distributor,2022-08-12
+CUST_1601,EMEA,Distributor,2022-04-06
+CUST_1602,EMEA,Direct Sales,2023-03-29
+CUST_1603,North_America,Direct Sales,2023-08-28
+CUST_1604,EMEA,Online Web,2023-10-04
+CUST_1605,North_America,Distributor,2023-02-25
+CUST_1606,EMEA,Online Web,2023-05-07
+CUST_1607,EMEA,Direct Sales,2022-01-19
+CUST_1608,EMEA,Direct Sales,2022-07-12
+CUST_1609,EMEA,Direct Sales,2022-08-19
+CUST_1610,North_America,Online Web,2022-03-19
+CUST_1611,APAC,Direct Sales,2022-09-12
+CUST_1612,EMEA,Distributor,2023-06-30
+CUST_1613,North_America,Distributor,2023-10-26
+CUST_1614,APAC,Distributor,2023-02-02
+CUST_1615,EMEA,Distributor,2022-06-25
+CUST_1616,EMEA,Online Web,2022-05-24
+CUST_1617,North_America,Direct Sales,2023-10-27
+CUST_1618,North_America,Direct Sales,2022-08-18
+CUST_1619,North_America,Direct Sales,2022-11-17
+CUST_1620,EMEA,Online Web,2023-01-28
+CUST_1621,North_America,Distributor,2023-10-28
+CUST_1622,EMEA,Direct Sales,2023-11-06
+CUST_1623,North_America,Online Web,2023-01-01
+CUST_1624,LATAM,Direct Sales,2023-12-15
+CUST_1625,North_America,Distributor,2022-03-07
+CUST_1626,North_America,Direct Sales,2023-08-22
+CUST_1627,North_America,Direct Sales,2023-08-10
+CUST_1628,APAC,Direct Sales,2023-10-11
+CUST_1629,North_America,Distributor,2023-05-06
+CUST_1630,EMEA,Distributor,2022-02-02
+CUST_1631,EMEA,Distributor,2022-07-22
+CUST_1632,APAC,Online Web,2023-02-27
+CUST_1633,LATAM,Direct Sales,2023-07-24
+CUST_1634,LATAM,Direct Sales,2023-02-18
+CUST_1635,APAC,Online Web,2022-05-18
+CUST_1636,EMEA,Distributor,2022-01-11
+CUST_1637,North_America,Distributor,2022-11-19
+CUST_1638,EMEA,Distributor,2023-07-04
+CUST_1639,EMEA,Online Web,2022-11-25
+CUST_1640,LATAM,Distributor,2022-07-19
+CUST_1641,North_America,Online Web,2022-10-04
+CUST_1642,North_America,Direct Sales,2023-01-09
+CUST_1643,LATAM,Direct Sales,2022-05-06
+CUST_1644,EMEA,Direct Sales,2022-09-10
+CUST_1645,EMEA,Direct Sales,2023-04-29
+CUST_1646,EMEA,Distributor,2022-10-30
+CUST_1647,North_America,Distributor,2023-04-16
+CUST_1648,North_America,Distributor,2023-01-14
+CUST_1649,North_America,Online Web,2023-10-02
+CUST_1650,North_America,Distributor,2023-02-05
+CUST_1651,APAC,Direct Sales,2023-11-24
+CUST_1652,APAC,Online Web,2022-06-11
+CUST_1653,EMEA,Distributor,2022-01-29
+CUST_1654,North_America,Distributor,2022-03-17
+CUST_1655,North_America,Online Web,2023-08-20
+CUST_1656,EMEA,Distributor,2023-06-10
+CUST_1657,North_America,Online Web,2022-02-15
+CUST_1658,EMEA,Distributor,2023-06-20
+CUST_1659,EMEA,Distributor,2022-11-22
+CUST_1660,North_America,Online Web,2023-05-28
+CUST_1661,EMEA,Online Web,2022-10-24
+CUST_1662,EMEA,Distributor,2023-04-20
+CUST_1663,EMEA,Distributor,2022-02-07
+CUST_1664,North_America,Direct Sales,2022-02-16
+CUST_1665,EMEA,Distributor,2023-04-29
+CUST_1666,North_America,Distributor,2022-07-10
+CUST_1667,APAC,Direct Sales,2022-06-10
+CUST_1668,EMEA,Direct Sales,2022-10-22
+CUST_1669,North_America,Direct Sales,2023-10-11
+CUST_1670,North_America,Direct Sales,2023-01-21
+CUST_1671,EMEA,Distributor,2022-12-03
+CUST_1672,North_America,Distributor,2022-02-07
+CUST_1673,North_America,Online Web,2022-07-17
+CUST_1674,LATAM,Direct Sales,2023-11-19
+CUST_1675,North_America,Online Web,2022-10-03
+CUST_1676,LATAM,Online Web,2023-08-09
+CUST_1677,EMEA,Online Web,2023-05-06
+CUST_1678,North_America,Distributor,2023-08-06
+CUST_1679,North_America,Online Web,2023-08-17
+CUST_1680,LATAM,Direct Sales,2023-08-28
+CUST_1681,EMEA,Direct Sales,2023-02-10
+CUST_1682,North_America,Distributor,2022-02-04
+CUST_1683,North_America,Distributor,2022-07-26
+CUST_1684,North_America,Distributor,2023-09-05
+CUST_1685,APAC,Distributor,2022-03-31
+CUST_1686,APAC,Distributor,2023-05-26
+CUST_1687,North_America,Online Web,2023-06-27
+CUST_1688,North_America,Online Web,2022-06-07
+CUST_1689,North_America,Distributor,2022-08-10
+CUST_1690,APAC,Online Web,2022-06-17
+CUST_1691,North_America,Online Web,2023-05-02
+CUST_1692,North_America,Online Web,2022-12-05
+CUST_1693,EMEA,Online Web,2022-05-01
+CUST_1694,EMEA,Online Web,2023-04-30
+CUST_1695,EMEA,Direct Sales,2023-05-28
+CUST_1696,North_America,Online Web,2022-04-23
+CUST_1697,North_America,Direct Sales,2023-04-08
+CUST_1698,APAC,Distributor,2023-12-31
+CUST_1699,North_America,Online Web,2023-09-07
+CUST_1700,North_America,Distributor,2023-10-01
+CUST_1701,EMEA,Direct Sales,2022-05-29
+CUST_1702,EMEA,Online Web,2022-03-01
+CUST_1703,North_America,Distributor,2023-06-26
+CUST_1704,North_America,Distributor,2022-06-08
+CUST_1705,EMEA,Distributor,2023-02-06
+CUST_1706,EMEA,Online Web,2022-08-23
+CUST_1707,EMEA,Online Web,2022-08-20
+CUST_1708,North_America,Distributor,2022-09-18
+CUST_1709,EMEA,Distributor,2022-05-20
+CUST_1710,APAC,Online Web,2023-10-18
+CUST_1711,North_America,Online Web,2022-05-27
+CUST_1712,EMEA,Distributor,2022-01-22
+CUST_1713,LATAM,Online Web,2022-09-21
+CUST_1714,LATAM,Direct Sales,2022-10-13
+CUST_1715,North_America,Online Web,2022-12-22
+CUST_1716,APAC,Online Web,2023-04-26
+CUST_1717,LATAM,Direct Sales,2022-07-23
+CUST_1718,North_America,Direct Sales,2023-01-27
+CUST_1719,LATAM,Online Web,2023-03-30
+CUST_1720,LATAM,Direct Sales,2023-08-04
+CUST_1721,North_America,Online Web,2022-11-14
+CUST_1722,EMEA,Distributor,2022-04-09
+CUST_1723,EMEA,Online Web,2023-06-13
+CUST_1724,North_America,Distributor,2023-05-27
+CUST_1725,LATAM,Online Web,2023-10-15
+CUST_1726,North_America,Direct Sales,2022-02-23
+CUST_1727,North_America,Online Web,2023-11-22
+CUST_1728,LATAM,Online Web,2023-01-14
+CUST_1729,North_America,Distributor,2022-08-21
+CUST_1730,North_America,Online Web,2023-10-24
+CUST_1731,APAC,Online Web,2022-05-12
+CUST_1732,LATAM,Direct Sales,2022-11-23
+CUST_1733,North_America,Distributor,2022-01-12
+CUST_1734,North_America,Online Web,2022-01-01
+CUST_1735,North_America,Distributor,2023-12-07
+CUST_1736,EMEA,Online Web,2022-05-16
+CUST_1737,APAC,Distributor,2023-03-19
+CUST_1738,EMEA,Online Web,2023-06-10
+CUST_1739,LATAM,Distributor,2022-01-09
+CUST_1740,North_America,Online Web,2022-12-17
+CUST_1741,APAC,Distributor,2023-06-18
+CUST_1742,North_America,Direct Sales,2023-03-22
+CUST_1743,North_America,Direct Sales,2023-01-24
+CUST_1744,North_America,Distributor,2023-01-16
+CUST_1745,North_America,Direct Sales,2022-08-23
+CUST_1746,North_America,Distributor,2022-03-10
+CUST_1747,EMEA,Direct Sales,2022-12-20
+CUST_1748,North_America,Direct Sales,2023-08-15
+CUST_1749,North_America,Direct Sales,2023-12-29
+CUST_1750,EMEA,Distributor,2022-06-18
+CUST_1751,APAC,Direct Sales,2023-09-24
+CUST_1752,EMEA,Distributor,2022-05-25
+CUST_1753,North_America,Online Web,2022-04-21
+CUST_1754,EMEA,Direct Sales,2022-02-09
+CUST_1755,North_America,Online Web,2023-07-13
+CUST_1756,EMEA,Distributor,2022-12-27
+CUST_1757,North_America,Distributor,2023-02-15
+CUST_1758,EMEA,Online Web,2022-02-07
+CUST_1759,EMEA,Online Web,2022-12-01
+CUST_1760,APAC,Online Web,2023-12-06
+CUST_1761,North_America,Online Web,2022-10-24
+CUST_1762,APAC,Distributor,2022-09-21
+CUST_1763,EMEA,Distributor,2022-06-01
+CUST_1764,EMEA,Distributor,2022-03-21
+CUST_1765,North_America,Direct Sales,2022-09-08
+CUST_1766,APAC,Direct Sales,2023-11-04
+CUST_1767,North_America,Online Web,2022-02-25
+CUST_1768,North_America,Distributor,2022-10-21
+CUST_1769,APAC,Distributor,2022-04-10
+CUST_1770,EMEA,Direct Sales,2023-06-29
+CUST_1771,LATAM,Distributor,2022-03-28
+CUST_1772,EMEA,Distributor,2023-09-22
+CUST_1773,North_America,Online Web,2023-03-24
+CUST_1774,North_America,Direct Sales,2023-06-19
+CUST_1775,EMEA,Direct Sales,2022-04-19
+CUST_1776,North_America,Direct Sales,2022-11-05
+CUST_1777,North_America,Direct Sales,2023-06-01
+CUST_1778,APAC,Online Web,2022-04-11
+CUST_1779,North_America,Online Web,2023-04-19
+CUST_1780,EMEA,Distributor,2022-08-17
+CUST_1781,APAC,Direct Sales,2022-06-08
+CUST_1782,APAC,Distributor,2022-05-20
+CUST_1783,LATAM,Distributor,2023-01-05
+CUST_1784,EMEA,Online Web,2023-12-05
+CUST_1785,APAC,Online Web,2022-04-15
+CUST_1786,North_America,Distributor,2022-11-30
+CUST_1787,EMEA,Online Web,2023-06-06
+CUST_1788,North_America,Direct Sales,2022-09-23
+CUST_1789,EMEA,Direct Sales,2023-03-17
+CUST_1790,North_America,Direct Sales,2022-03-15
+CUST_1791,North_America,Distributor,2022-08-07
+CUST_1792,EMEA,Direct Sales,2023-08-27
+CUST_1793,EMEA,Distributor,2023-05-18
+CUST_1794,North_America,Direct Sales,2023-12-10
+CUST_1795,APAC,Distributor,2022-07-11
+CUST_1796,LATAM,Online Web,2022-12-19
+CUST_1797,North_America,Online Web,2023-10-20
+CUST_1798,North_America,Direct Sales,2023-12-29
+CUST_1799,EMEA,Online Web,2023-07-10
+CUST_1800,North_America,Distributor,2023-08-23
+CUST_1801,North_America,Direct Sales,2022-10-03
+CUST_1802,EMEA,Direct Sales,2023-05-12
+CUST_1803,EMEA,Distributor,2023-10-07
+CUST_1804,North_America,Online Web,2022-05-05
+CUST_1805,North_America,Online Web,2023-09-08
+CUST_1806,APAC,Distributor,2022-01-15
+CUST_1807,APAC,Distributor,2022-06-15
+CUST_1808,LATAM,Distributor,2023-09-13
+CUST_1809,North_America,Distributor,2022-02-10
+CUST_1810,North_America,Distributor,2022-03-10
+CUST_1811,North_America,Direct Sales,2022-08-23
+CUST_1812,EMEA,Distributor,2022-12-19
+CUST_1813,North_America,Online Web,2023-06-08
+CUST_1814,EMEA,Distributor,2023-04-04
+CUST_1815,LATAM,Distributor,2023-06-23
+CUST_1816,EMEA,Online Web,2022-08-11
+CUST_1817,North_America,Online Web,2023-08-27
+CUST_1818,EMEA,Online Web,2023-10-15
+CUST_1819,North_America,Online Web,2023-01-28
+CUST_1820,North_America,Direct Sales,2023-12-22
+CUST_1821,APAC,Distributor,2023-04-02
+CUST_1822,APAC,Direct Sales,2022-06-30
+CUST_1823,North_America,Online Web,2022-07-22
+CUST_1824,EMEA,Online Web,2023-05-26
+CUST_1825,North_America,Distributor,2023-09-11
+CUST_1826,EMEA,Distributor,2022-12-11
+CUST_1827,North_America,Direct Sales,2022-11-13
+CUST_1828,North_America,Online Web,2023-04-05
+CUST_1829,EMEA,Online Web,2022-05-06
+CUST_1830,North_America,Direct Sales,2022-01-01
+CUST_1831,EMEA,Distributor,2023-08-27
+CUST_1832,North_America,Online Web,2022-02-18
+CUST_1833,APAC,Distributor,2022-12-14
+CUST_1834,North_America,Distributor,2023-02-08
+CUST_1835,North_America,Online Web,2022-09-17
+CUST_1836,EMEA,Distributor,2022-09-03
+CUST_1837,North_America,Direct Sales,2022-11-04
+CUST_1838,APAC,Direct Sales,2022-11-08
+CUST_1839,North_America,Direct Sales,2022-04-03
+CUST_1840,LATAM,Direct Sales,2022-05-13
+CUST_1841,EMEA,Direct Sales,2023-08-19
+CUST_1842,EMEA,Online Web,2022-02-22
+CUST_1843,EMEA,Online Web,2022-03-14
+CUST_1844,APAC,Online Web,2022-12-01
+CUST_1845,EMEA,Online Web,2023-08-09
+CUST_1846,EMEA,Direct Sales,2022-12-14
+CUST_1847,EMEA,Distributor,2023-08-15
+CUST_1848,EMEA,Direct Sales,2022-07-19
+CUST_1849,EMEA,Distributor,2022-07-05
+CUST_1850,North_America,Direct Sales,2022-08-21
+CUST_1851,EMEA,Distributor,2023-12-31
+CUST_1852,APAC,Distributor,2023-03-17
+CUST_1853,EMEA,Direct Sales,2022-06-26
+CUST_1854,North_America,Direct Sales,2022-08-03
+CUST_1855,North_America,Direct Sales,2022-02-19
+CUST_1856,EMEA,Online Web,2023-08-22
+CUST_1857,APAC,Online Web,2022-02-17
+CUST_1858,North_America,Direct Sales,2022-01-04
+CUST_1859,EMEA,Online Web,2022-11-29
+CUST_1860,APAC,Distributor,2022-01-31
+CUST_1861,EMEA,Direct Sales,2023-03-18
+CUST_1862,LATAM,Online Web,2023-04-04
+CUST_1863,North_America,Online Web,2022-09-22
+CUST_1864,APAC,Online Web,2023-12-29
+CUST_1865,EMEA,Direct Sales,2023-01-15
+CUST_1866,EMEA,Direct Sales,2022-07-17
+CUST_1867,North_America,Online Web,2023-07-04
+CUST_1868,EMEA,Direct Sales,2022-08-18
+CUST_1869,North_America,Online Web,2023-03-07
+CUST_1870,APAC,Distributor,2022-09-11
+CUST_1871,North_America,Direct Sales,2023-08-18
+CUST_1872,EMEA,Online Web,2022-10-08
+CUST_1873,EMEA,Direct Sales,2023-11-15
+CUST_1874,EMEA,Online Web,2022-08-28
+CUST_1875,North_America,Direct Sales,2022-04-20
+CUST_1876,EMEA,Online Web,2022-12-11
+CUST_1877,North_America,Direct Sales,2022-02-25
+CUST_1878,North_America,Distributor,2022-01-02
+CUST_1879,EMEA,Distributor,2022-03-26
+CUST_1880,LATAM,Distributor,2022-03-19
+CUST_1881,APAC,Online Web,2023-09-16
+CUST_1882,EMEA,Direct Sales,2023-11-26
+CUST_1883,APAC,Online Web,2023-09-13
+CUST_1884,North_America,Direct Sales,2022-02-19
+CUST_1885,North_America,Online Web,2023-11-10
+CUST_1886,APAC,Direct Sales,2023-02-12
+CUST_1887,EMEA,Online Web,2022-07-06
+CUST_1888,North_America,Distributor,2022-08-18
+CUST_1889,EMEA,Distributor,2023-07-08
+CUST_1890,North_America,Direct Sales,2023-08-02
+CUST_1891,North_America,Distributor,2022-03-31
+CUST_1892,APAC,Direct Sales,2023-09-02
+CUST_1893,North_America,Distributor,2022-09-13
+CUST_1894,EMEA,Online Web,2022-12-24
+CUST_1895,EMEA,Online Web,2023-03-29
+CUST_1896,APAC,Distributor,2023-08-18
+CUST_1897,North_America,Distributor,2023-02-22
+CUST_1898,EMEA,Online Web,2022-05-09
+CUST_1899,LATAM,Direct Sales,2022-09-20
+CUST_1900,North_America,Online Web,2023-02-17
+CUST_1901,North_America,Distributor,2022-07-27
+CUST_1902,LATAM,Distributor,2023-04-04
+CUST_1903,North_America,Online Web,2022-11-12
+CUST_1904,EMEA,Distributor,2023-01-28
+CUST_1905,North_America,Online Web,2023-04-13
+CUST_1906,APAC,Direct Sales,2022-09-25
+CUST_1907,EMEA,Online Web,2022-12-24
+CUST_1908,North_America,Distributor,2023-05-18
+CUST_1909,APAC,Direct Sales,2023-09-09
+CUST_1910,North_America,Online Web,2023-09-16
+CUST_1911,LATAM,Distributor,2023-06-17
+CUST_1912,EMEA,Direct Sales,2022-08-14
+CUST_1913,EMEA,Direct Sales,2023-05-14
+CUST_1914,North_America,Direct Sales,2023-12-17
+CUST_1915,EMEA,Distributor,2023-10-18
+CUST_1916,EMEA,Distributor,2023-07-19
+CUST_1917,EMEA,Online Web,2022-05-23
+CUST_1918,North_America,Online Web,2023-01-17
+CUST_1919,EMEA,Direct Sales,2022-08-09
+CUST_1920,LATAM,Direct Sales,2023-08-16
+CUST_1921,EMEA,Direct Sales,2023-07-27
+CUST_1922,North_America,Distributor,2023-03-05
+CUST_1923,North_America,Distributor,2023-11-11
+CUST_1924,LATAM,Online Web,2022-09-28
+CUST_1925,North_America,Online Web,2023-03-27
+CUST_1926,North_America,Online Web,2023-06-19
+CUST_1927,North_America,Online Web,2022-10-29
+CUST_1928,North_America,Direct Sales,2022-11-04
+CUST_1929,APAC,Direct Sales,2022-11-09
+CUST_1930,North_America,Direct Sales,2023-01-02
+CUST_1931,North_America,Online Web,2022-07-27
+CUST_1932,APAC,Distributor,2022-09-24
+CUST_1933,North_America,Online Web,2022-06-28
+CUST_1934,APAC,Distributor,2022-10-22
+CUST_1935,EMEA,Direct Sales,2022-04-09
+CUST_1936,North_America,Online Web,2022-11-01
+CUST_1937,EMEA,Online Web,2022-02-21
+CUST_1938,LATAM,Direct Sales,2022-10-30
+CUST_1939,North_America,Distributor,2023-03-15
+CUST_1940,EMEA,Online Web,2023-11-21
+CUST_1941,APAC,Online Web,2023-08-22
+CUST_1942,North_America,Distributor,2022-07-18
+CUST_1943,APAC,Distributor,2023-04-05
+CUST_1944,LATAM,Online Web,2022-05-06
+CUST_1945,EMEA,Direct Sales,2023-02-15
+CUST_1946,EMEA,Online Web,2022-06-30
+CUST_1947,North_America,Online Web,2023-02-05
+CUST_1948,North_America,Distributor,2022-04-09
+CUST_1949,EMEA,Online Web,2023-04-18
+CUST_1950,EMEA,Direct Sales,2023-09-01
+CUST_1951,APAC,Direct Sales,2023-04-17
+CUST_1952,EMEA,Online Web,2022-08-26
+CUST_1953,APAC,Online Web,2022-02-24
+CUST_1954,North_America,Online Web,2022-01-29
+CUST_1955,APAC,Distributor,2023-07-30
+CUST_1956,North_America,Online Web,2023-05-21
+CUST_1957,EMEA,Direct Sales,2023-08-21
+CUST_1958,APAC,Online Web,2023-07-11
+CUST_1959,APAC,Online Web,2023-12-03
+CUST_1960,North_America,Online Web,2023-09-14
+CUST_1961,APAC,Direct Sales,2022-08-11
+CUST_1962,LATAM,Online Web,2022-02-05
+CUST_1963,EMEA,Online Web,2022-04-20
+CUST_1964,EMEA,Direct Sales,2022-03-01
+CUST_1965,North_America,Distributor,2022-11-20
+CUST_1966,EMEA,Online Web,2023-05-19
+CUST_1967,APAC,Distributor,2023-06-19
+CUST_1968,North_America,Distributor,2022-08-26
+CUST_1969,LATAM,Direct Sales,2023-08-31
+CUST_1970,North_America,Direct Sales,2022-11-11
+CUST_1971,EMEA,Distributor,2022-09-05
+CUST_1972,North_America,Direct Sales,2023-12-04
+CUST_1973,North_America,Direct Sales,2022-09-23
+CUST_1974,APAC,Direct Sales,2023-12-21
+CUST_1975,North_America,Distributor,2022-12-06
+CUST_1976,EMEA,Distributor,2023-08-19
+CUST_1977,North_America,Distributor,2023-02-07
+CUST_1978,APAC,Direct Sales,2022-05-03
+CUST_1979,EMEA,Distributor,2022-04-10
+CUST_1980,EMEA,Distributor,2022-05-04
+CUST_1981,APAC,Distributor,2023-04-17
+CUST_1982,North_America,Online Web,2022-06-26
+CUST_1983,EMEA,Online Web,2022-07-28
+CUST_1984,North_America,Distributor,2023-07-22
+CUST_1985,North_America,Online Web,2022-07-16
+CUST_1986,North_America,Direct Sales,2023-11-05
+CUST_1987,LATAM,Distributor,2023-10-06
+CUST_1988,North_America,Online Web,2022-01-06
+CUST_1989,APAC,Distributor,2022-05-30
+CUST_1990,APAC,Distributor,2023-07-22
+CUST_1991,North_America,Direct Sales,2023-06-30
+CUST_1992,EMEA,Distributor,2023-06-04
+CUST_1993,EMEA,Direct Sales,2022-08-09
+CUST_1994,LATAM,Online Web,2023-12-31
+CUST_1995,North_America,Direct Sales,2022-12-20
+CUST_1996,APAC,Online Web,2022-06-03
+CUST_1997,North_America,Online Web,2022-10-31
+CUST_1998,North_America,Distributor,2022-07-09
+CUST_1999,LATAM,Distributor,2022-01-27
