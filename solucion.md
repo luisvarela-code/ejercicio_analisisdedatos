@@ -59,3 +59,7 @@ df_transactions.to_csv('fact_transactions.csv', index=False)
 print("✅ Datos generados en directorio local: 'dim_customers.csv' y 'fact_transactions.csv'")
 ```
 apareceran dos archivos cvs
+## el primero lleva por nombre dim_customers
+![image url](https://github.com/luisvarela-code/ejercicio_analisisdedatos/blob/main/archivos%20generados/generado_1.png?raw=true)
+## y el segundo se llama fact_sales
+![image url](https://github.com/luisvarela-code/ejercicio_analisisdedatos/blob/main/archivos%20generados/generado_2.png?raw=true)
